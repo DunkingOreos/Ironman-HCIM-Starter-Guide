@@ -1,0 +1,1044 @@
+This guide takes reference between the 'Optimal Ironman Quest Guide' from the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
+	Kirbuti did an amazing job constantly updating the guide with new information about things that were reworked over the years.
+As of June 2024 I have updated this even further while completing it on my current HCIM and then once more after the guide was finalized.
+
+
+Shameless plugs:
+	twitter.com/Dunking_Oreos
+	twitch.tv/Dunking_Oreos
+	youtube.com/Dunking_Oreos
+	[insert youtube video link] I created a video format of this guide 
+
+
+Setup/General notes:
+	This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
+		Average completion of Barrows Gloves through this guide is 105 hours.
+		It is recommended to use the Quest Helper and Shortest Path plugins throughout this guide.
+		Not meant to be a speedrun and is more so a route of getting items and doing quests in a logically efficient manner.
+	XP lamps dont have to be used on anything specific - herblore is recommended if the goal is to max
+		Herblore training isnt as hard as it used to be snf dometime in 2024 Varlamore is supposed to release a herbtodt type training method 
+		I also normally do the UIM method of getting dream vials, 1k vials = 168k herb xp 
+			https://www.youtube.com/watch?v=-02vi8wjrAE&ab_channel=Radishboy
+	While runecrafting is regarded to be one of the worse skills in the game, GoTR has made this skill exponentially better. 
+		It is highly recommended to get 95 RC after completing DS2 in order to efficently level prayer while slaying
+
+	Set up a new account through the Jagex Launcher.
+		This is required in order to claim 10k from Stronghold of Security
+		If you dont want to use Jagex Launcher, get the 10k by picking up steel platelegs in the wilderness and selling to leg shop in Al Kharid
+
+
+	[INV] Indicates inventory setups throughout the guide
+		A vast majority of the combat in this guide will utilize magic as the combat reblance in May 2024 has made magic even stronger
+		Using mind runes and and air staff will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
+
+
+	
+ALTERNATE START -- If you do not want to go to the wilderness and risk status skip to line 104
+	
+	In Lumbridge, sell to general store: bronze weapons, bronze axe, wooden shield, shortbow
+	Buy spade and hammer from general store
+	Drop air/mind runes, claim more from tutor
+	Start X Marks the Spot
+	Minigame tele to Burthrope and get slayer task
+	Home tele
+
+	[INV] Bread, shrimps
+	Use Count Check's one-time teleport to Barbarian Village
+	Go north to hall, take one piece of cooked beef and burn it
+	Pick up more food spawns in hall (hop worlds for extra, shouldn't need more than 5)
+	Stronghold of Security Floors 1-3 for 10k gp
+	Go buy black wizard hat from Port Sarim
+	Go to Draynor and buy 54 wines, chronicle, 5 teleport cards
+	Chronicle tele rune to Aubury and buy 100 water/earth/fire and 500 mind runes
+	Run to Zaff and buy air staff
+	Do slayer task until minigame tele is ready
+	Minigame tele to LMS and go east to kill rats for looting bag
+	
+	[INV] Looting bag, 3 wine
+	Collect 4 inventories steel platelegs (will net ~140k) run back and forth to Ferox on f2p worlds (no green dragons spawn)
+	
+	[INV] Chronicle, 10 gp, all steel platelegs noted
+	Tele home and run to Al Kharid plateleg shop
+	Sell one at a time for 650 gp each (buy on another account so you dont have to world hop)
+	Chronicle tele and buy 3500 - 4500 water strikes 
+		About 50 casts per kc depending on if you have to world hop towards end of kill and such
+		Took 3,087 casts for 60 bones
+	
+	[INV] Looting bag, water and mind runes
+	Kill lava dragons for either 40 or 43 prayer (use alt to tele from Ferox to lvl 35 obelisk for dragons, then lvl 44 obelisk for chaos altar)
+		First hour will average  ~ 15 kc
+		Susequent hours average  ~ 22 kc
+	
+		If you dont want to risk lava dragons there are a couple of other options:
+			Safespot green dragons north of Ferox
+				Will be slightly safer than lavas but significantly slower (took 200 casts and 11 minutes 20 seconds for first kill, lava dragons are 2 minutes 30-40 seconds for first kills)
+			Run to the boneyard and collect 355 big bones (40 prayer) or 480 big bones (43 prayer) 
+	    			While this sounds slow, realize that killing lava dragons will take about 3-5 hours depending if going to 40 or 43 prayer
+				You will use some wines here while running through the skeletons
+				Doesnt get you magic xp which means more time spent at revs
+					If skipping revs you can winterdot will be easier since less HP
+		
+	If you get 40 Prayer, completing Recruitment Drive, Priest in Peril, and Holy Grail will get you 43
+			40 Prayer takes 61 bones at Chaos altar
+			43 Prayer takes 85 bones at Chaos altar
+				50 gp each to unnote, bring gp accordingly
+		If you get these drops, keep at least one: Rune axe, lava battlestaff, nature taslisman (RDT but could be used in Fairytale pt 1) 
+		Keep ALL rune knives (will be used to skip yew bow requirement during Temple of Ikov)
+			Alch the rest after 52+ Magic
+	Go get slayer task from Krystilia
+		Fingers crossed for revs, if not then don't worry about completing it
+	Kill revs until 60 magic (skull on alt) 
+		Although a rev weapon or relic would be amazing, the most important thing to get here is magic logs so we can skip WT
+			If unlucky and no magic logs before 60 magic, get magic logs through hunter rumours unless you want to do WT
+		Do NOT high alch extra braclets until 60 magic (in case rev weapon drop) - put 1 ether in to make it 45k per bracelet
+		Start at goblins until money permits the maintenance of chaos or death runes
+	At 60 magic go do Mage Arena 1
+		At this time also buy 20 - 100 cosmic runes depending on money
+
+END OF ALTERNATE START
+
+
+Section 1: Unlocking Ardougne Cloak
+
+
+1A. Starting Off (SKIP DOWN TO LINE 110 IF YOU COMPLETED WILDERNESS START)
+	
+	Complete Tutorial Island
+		As of 9 November 2022, it is no longer required to be female for Recruitment Drive
+	
+	In Lumbridge, sell to general store: bronze weapons, bronze axe, wooden shield, shortbow
+	Buy spade and hammer from general store
+	Drop air/mind runes, claim more from tutor
+	Start X Marks the Spot
+	Pick up all the spawns in Lumbridge castle kitchen and basement
+		Fill jug with water 
+		Fill bucket with water
+	Start Rune Mysteries, get air talisman
+	Get 15 Firemaking using log spawns on castle top floor. Bank least 4 ashes and 7 logs
+	Fletch 1000 arrow shafts from these log spawns
+	
+	[INV] Bread, shrimps
+	Use Count Check's one-time teleport to Barbarian Village
+	Go north to hall, take one piece of cooked beef and burn it
+	Pick up more food spawns in hall (hop worlds for extra, shouldn't need more than 5)
+	Stronghold of Security Floors 1-3 for 10k gp
+	Go to Varrock Square and buy staff of air from Zaff
+		Equip this pretty much at all times. Especially when inventory says to bring mind runes
+	
+	Home tele
+	Buy steel axe from Bob
+	Start The Restless Ghost
+	
+	[INV] Spade, all your air/mind runes, air talisman, pot, bucket
+	Start Cooks Assistant
+	Drop runes, collect more from tutor if you can
+	Start Sheep Shearer
+	Pick up 2 eggs from Fred's house
+	Shear 1 wool (do not spin, this is used for Sleeping Giants)
+	
+	First two clues of X Marks the Spot (Lumbridge)
+	Kill a giant rat west of castle w/ air strike, keep meat (Druidic Ritual) and bones (Demon Slayer)
+	Head west (north of fence), then south, talk to Urhney, equip amulet
+	Pick up 5 swamp tar near swamp cave entrance
+		(Optional) If you plan to tick manipulate for skilling, grab another 15 swamp tar
+	Continue Restless Ghost w/ Ghost in Lumbridge
+	Go to Wizards Tower, continue Rune Mysteries and The Restless Ghost
+	
+	Go to Draynor
+	Start Vampyre Slayer
+	Grab 3 garlic from Morgan's house
+	Grab 6 cheese from Aggie's house
+	Draynor steps of X Marks the Spot
+	Buy in Draynor: Chronicle, 10 cards, 5+ wines for emergency food, forestry kit, 1 rope from Ned
+	Read notice board behind Fortunato's Wine Stall
+	
+	[INV] 5000 gp, spade, ancient casket, 18 free spaces
+	Complete Ernest the Chicken
+		Pick up bronze med helm spawn in Draynor Manor
+	Complete X Marks the Spot
+		Lamp on Farming
+	Buy in Port Sarim: black wizard hat, 2 eye of newt, 5 mind rune packs, fly fishing rod, 10 sardines, 15 feather packs
+	Start Pirate's Treasure (just talk to Redbeard Frank)
+	
+	Sail to Zeah
+	Start Client of Kourend 
+		Piscarilius store > Arceuus store 
+		Bank in Arceuus (everything except a few pieces of food, gp, spade, scroll and quill)
+		Lovakengj store > Shayzien store (buy chefs hat at clothes store) > Clue hunter garb > Hosidius store > Collect 5 snape grass on Hosidius coast
+		Return to Veos  
+		After smashing orb, bank in Arceuus for next section
+		
+	[INV] 1 eye of newt, burnt meat, bucket, spade, 250 coins, 18 free spaces, mind runes
+	Complete Client of Kourend
+		Lamp on Farming
+	Take boat back to Port Sarim
+	Do Pirate's Treasure Karamja & Port Sarim sections, get key from Redbeard Frank
+	
+	Buy from Falador Farm: rake, seed dibber, trowel, secateurs, watering can, 5 plant cure
+		Store all of this in Leprechaun
+	Talk to Sarah about Porcine of Interest
+	Kill 2 cows by Crafting Guild, take all loot
+	Grab onion north of Rimmington (just one, you'll buy more later)
+	Complete Witch's Potion
+		Kill rat in archery store for tail
+	Boat from Rimmington to Ardougne
+	
+	
+1B. Kandarin Part 1
+	
+	[INV] Jug of water, logs, bucket of water, 1010+ gp, XP lamps
+	Complete Monk's Friend
+	Complete Clock Tower
+		pick up rat poison in basement
+	
+	Buy 2 swamp paste in Port Khazard
+	Complete Hazeel Cult, side with Hazeel (no combat)
+	
+	Buy POH from Estate Agent in Ardougne
+	Use lamps from X Marks the Spot and Client of Kourend on Farming
+	
+	Thieve cakes for food until 20 Thieving, then silk to 21 (need at least 10 silk for future quests)
+		Bank 15 bread
+	[Diary] Ardougne Easy: Steal a cake
+	[Diary] Ardougne Easy: Check pets with Probita
+	[Diary] Ardougne Easy: Use altar in East Ardougne
+	
+	Complete Sheep Herder (bring 100 gp to start)
+	
+	Buy from Ardy General store: 3 ropes, 5 vials, 30 balls of wool, 7 papyrus
+	Complete Tribal Totem
+	[Diary] Ardougne Easy: Sell silk to silk trader (sell back one that you stole earlier)
+	
+	[INV] Forestry kit, steel axe, tinderbox
+	Chop and light normal logs/oaks to 35 Woodcutting (several trees SE of Zoo)
+	Kill imps until all 4 beads are collected
+	Complete Sea Slug (bring small fishing net for diary step)
+	
+	Walk to Catherby (be careful of bats near Keep Le Faye)
+	Start Fishing Contest (West side of mountain)
+	Buy in Catherby: candle, big fishing net, two lobster pots 
+	Buy a glassblowing pipe and 15 pineapples from Charter ship and put into compost bin
+	Grab insect repellent
+		
+	[INV] Pot, spade, 10 coins, fishing pass, garlic, 2 cakes, 16 free inventory slots
+	Complete Murder Mystery
+	Continue Fishing Contest (vines, contest) 
+		GUARD DOGS MAX HIT IS 5
+		Buy fishing rod from Grandpa Jack for 5 gp
+	
+	Walk south around Fishing Guild
+	Dig for Clue hunter gloves/boots south of Fishing Guild
+	Walk northwest to Barbarian Assault, unlock Minigame Teleport
+		Talk to Captain Cain, there will be a dialogue option to skip full Tutorial
+		Test the teleport to make sure you unlocked it
+	
+	Start Barcrawl
+	Pick up 4 inventory of planks 
+	
+	[INV] Rope, hammer, food
+	Start Waterfall Quest, get to step where you need to go to Tree Gnome Village (remember to read book)
+	Start Dwarf Cannon, complete until needing to go to Ice Mountain
+	
+	Walk to Gnome Stronghold
+	Train to 10 Agility at Gnome Stronghold course
+	Barcrawl Grand Tree
+	Buy in Grand Tree: 3 vodka, 1 dwellberries, 1 choc dust, 5 choc bars, 6 milk, gnome spice, 4 flour, 12 onions, 1 orange
+		Vodka can be bought east, everything else west
+		Make hangover cure, 1 bread dough, 1 pastry dough
+	Buy 1000 bronze arrowtips on 3rd floor
+		Sometime before The Tourist Trap fletch 1k bronze arrows for 10 Fletching (you'll be reminded)
+	
+	Minigame tele to Clan Wars, go north of Ferox to pick up 2 iron bars (HCIM risk)
+	Go back into Ferox, restore energy at pool
+	
+	[INV] Dwellberries, rope, spade, hangover cure, food
+	Go into Ferox basement, use Soul Wars portal
+	Exit Soul Wars portal into Edgeville, use lever into Wilderness and back to Ardougne (HCIM risk)
+	[Diary] Ardougne Easy: Use lever to teleport to Wilderness (HCIM risk) (take lever one extra time)
+	Complete Plague City
+		pickup bucket spawn in garden, hop worlds for 4 of them, fill in the house
+
+
+1C. Asgarnia
+	
+	Boat to Rimmington, walk to Draynor
+	Train to 20 Agility on Draynor Rooftop
+	
+	[INV] Barcrawl card, 400+ gp, 
+	Walk to Falador
+	Buy iron chainbody from Wayne
+	Barcrawl Falador
+	Buy 5 wizard's mind bombs from Falador Pub
+	Start The Knight's Sword
+	Start Black Knight's Fortress
+	Buy 8 woad leaves from Wyson (select the 20 gp option to get two leaves at a time)
+	
+	[INV] Cabbage, bronze med helm, food, pickaxe, chronicle
+	Start Below Ice Mountain (until having to talk to Burntof in Falador)
+		When talking to Checkal, grab beer and meat from greathall
+	Continue Dwarf Cannon at Ice Mountain
+	Continue Black Knights' Fortress (entire Fortress section)
+	
+	Chronicle to Varrock
+	Mine 7 clay by Champions' Guild
+	Start Gertrude's Cat, make a seasoned sardine
+	Make 7 soft clay at bank
+	
+	[INV] 4500 gp, research package, Redbeard's key, barcrawl card
+	Talk to Shilop/Wilough in Varrock Square for Gertrude's Cat
+	Buy from Thessalia: pink skirt and priest gown top & bottom
+	Start Children of the Sun (until talking to the Sgt after marking the guards)
+	Start Romeo & Juliet
+	Start Demon Slayer
+	Complete Children of the Sun
+	Talk to Prysin about keys, get first key from guard in tower
+	Talk to Reldo for The Knight's Sword
+	Grab bucket (upstairs) and pie dish from kitchen, fill bucket at sink
+	Wash the drain outside the palace
+	Start Priest in Peril (talk to King Roald)
+	Go into sewers to get second key for Demon Slayer
+	
+	Barcrawl Blue Moon
+	Buy 4 beers at Blue Moon Inn
+	Talk to Dr Harlow for Vampyre Slayer (get stake)
+	Continue Pirate's Treasure (open chest upstairs, read the clue)
+		After reading the pirate message you can drop it
+	Talk to Aubury for Rune Mysteries (give him research package)
+	Start Daddy's Home, get the 3 waxwood logs
+	
+	[INV] Bucket of milk, seasoned sardine, 3 waxwood logs, 4000 gp, barcrawl card, rest open slots
+	Go to Sawmill for Gertrude's Cat and Daddy's Home
+		Buy 5 bolts of cloth, 100 steel nails, 1 bronze nail saw
+	Barcrawl NE Varrock
+	Complete Varrock Museum Quiz
+	
+	Complete Gertrude's Cat
+		Keep chocolate cake for A Tail of Two Cats
+		Highly recommended to raise cats for most of this guide, with the amount of karambwanji you fish there will be enough to raise around 20 cats. 
+		You do not NEED to raise this many but it saves money buying death runes, I used about 2k death runes throughout this guide 
+	
+	Start raising kittens, for now feed them with the sardines you bought earlier
+		Raise kittens as you continue through this guide, until you have at least 3k death runes
+		(Optional) Keep a ball of wool with you to keep kittens happy for 50 minutes at a time
+	
+	Continue Romeo & Juliet (talk to Juliet, give letter to Romeo, go to Father Lawrence)
+	Buy staff of air from Zaff
+	Buy rotten tomato from crate east of General store
+	Complete Daddy's Home
+		Sell 8 bolts of cloth back to Sawmill (No longer need to sell 1 per world - constant 250 gp each)
+		Buy 200 iron nails
+	
+	[INV] mind runes (all), 19 free spaces
+	Go SE of Varrock, kill bear for meat (Druidic Ritual), pick up bones for Demon Slayer
+		Pick 16 redberries and 1 cadava berries
+	Complete Romeo & Juliet
+	Bank the redberries
+	Go to Barbarian Village and safespot barbarians in longhall until 13 Magic 
+		Keep bones drops for Demon Slayer
+	Teleport to Lumbridge
+	
+	[INV] 20 balls of wool, egg, milk, flour, ghost's skull (you do NOT need ghostspeak amulet to finish the quest)
+	Complete Cook's Assistant
+	Complete The Restless Ghost
+	Complete Sheep Shearer
+	Go to Al-Kharid
+	Buy everything from crafting shop except bolt mould. Also buy 3 needles and 50 thread
+	
+	Start Prince Ali Rescue (talk to Hassan, then Osman)
+	Buy from Shantay: desert outfit, 10 waterskins, 1 empty waterskin, 10 passes, 4 bronze bars
+	Make pie shell, raw redberry pie
+	
+	[INV] Falador teletab, house teletab, pickaxe, 2 iron bars, raw redberry pie, bucket, spade, strike runes, iron nails, 84 planks, hammer, saw
+	Get thrown in jail and "teleported" to Port Sarim
+	Go North to house with range, cook redberry pie
+		If it burns, buy flour & redberries at food shop, get water from house in north Port Sarim, reuse pie dish
+	Go to POH in building mode and use planks to make chairs
+	
+	Continue The Knight's Sword
+		Talk to Thurgo, give him pie, ask about sword
+		Go into dungeon and mine 2 blurite ore
+		Falador teletab, talk to Squire and get portrait from Sir Vyvin's room
+		House teletab to Rimmington
+		Return to Thurgo and get sword
+		Run back to Falador
+	Complete Pirate's Treasure (Falador garden, kill level 5 gardener)
+	Complete The Knight's Sword
+	Complete Black Knights' Fortress
+	
+	[INV] Beer, knife, cooked meat, bread, pickaxe, food, (mind runes if you want to safespot)
+	Complete Below Ice Mountain
+		Skip talking to Charlie the Tramp and directly go to Marley in Edgeville
+		Mine the 4 pillars to kill quest boss or safespot by hugging East wall by the exit
+	
+	[INV] 3 bronze bars, hammer, 30-50 feathers, shantay passes, waterskins (1 empty), knife, food, mind runes
+	Teleport to Lumbridge, go to Al-Kharid
+	Complete The Tourist Trap
+		Mercenary is safespottable against other NPCs, requires careful setup
+		Guard is also safespottable against other players if you have an alt (don't walk through your alt)
+		XP Rewards on Agility
+	
+	[INV] Notes (Rune Mysteries), 25 bones, 10 gp if banking in Al-Kharid
+	If you still need 25 bones, kill chickens in Lumbridge 
+		Keep 1 raw chicken for druidic ritual
+	Go to Wizard's Tower
+	Get Demon Slayer key from Traiborn
+	Complete Rune Mysteries
+	
+	Get food from Draynor bank, pickpocket HAM members for rusty sword and steel pickaxe
+		Also keep any HAM robes, gems, herbs, and 1 polished buttons
+	Make dyes at Aggie: 4 red (12 redberries), 4 blue (8 woad leaves), 5 yellow (10 onions)
+		Make skin paste: 1 redberry, 1 ash, bucket of water, pot of flour
+	Talk to Ned to make wig for Prince Ali Rescue (3 balls of wool), dye it yellow
+	Get imprint for Prince Ali Rescue (soft clay, be careful of jail guards)
+	
+	Buy some seeds from Olivia for initial birdhouses later (1k is enough)
+		As of 15 February 2023, allotment and flower seeds work for birdhouses
+	
+	[INV] Spade, mind runes, blue/orange dyes, rat/bear/beef/chicken, fishing trophy, bronze bar, imprint, food, gp
+	Walk to Falador
+	Complete Goblin Diplomacy (3 mails in crates in the village)
+	Complete Fishing Contest on the east side of the mountain
+	Complete Druidic Ritual
+	Buy pestle & mortar from Jatix
+	Teleport to Lumbridge, go to Al-Kharid, give bronze bar and imprint to Osman
+
+
+1D. Kandarin Part 2 
+	
+	[INV] Spade, barcrawl card, 1000 gp
+	Minigame tele to LMS, drink refreshment pool
+	Portal to Castle Wars
+	
+	Go to Yanille (stay south of lake to avoid ogres)
+	Barcrawl Yanille
+	Buy a Greenman's ale and hunter gear in Yanille
+		Butterfly net, butterfly jar, noose wand, 2 bird snares, 5 box traps, teasing stick
+	[Diary] Ardougne Easy: View Aleck's Hunter shop
+	Dig for Clue Hunter cloak SE of Yanille
+	
+	Go to Port Khazard
+	[Diary] Ardougne Easy: Start a game of Fishing Trawler (can leave immediately after boat launches by hopping worlds)
+	[Diary] Ardougne Easy: Have Tindel identify a rusty sword
+	Buy from Charter Ship: 13 buckets of slime, 4 soda ash, 4 buckets of sand
+	
+	[INV] mind runes, barcrawl card, food, 4 soda ash, 4 buckets of sand, gp
+	Go to Ardougne
+	Make 4 molten glass at Ardougne furnace
+	Start Biohazard (complete sections in Ardougne)
+		Kill mourner (Level 11, 19 hp) with fire strike
+	Complete Tower of Life
+	Boat to Rimmington, give vials to artists
+	Barcrawl Port Sarim
+	
+	[INV] 3 beers, rope, wig, skin paste, pink skirt, food
+	Go to Draynor, rescue Prince Ali (HCIMs be careful of jail guards)
+	Minigame tele to Clan Wars, recharge run, leave Ferox to the south (HCIM risk)
+	Start Enter The Abyss (talk to Mage in Wildy, get scrying orb in Varrock)
+	Have Aubury teleport you to the essence mine with scrying orb in inventory
+		
+	[INV] Scrying orb, 50+ coins, priest gown top/bottom, plague sample, touch paper, barcrawl card, pickaxe
+	Continue Biohazard (Varrock section)
+	
+	Minigame tele to Fishing Trawler
+	Get beads for imp catcher if havent already
+	[Diary] Ardougne Easy: Have Cromperty teleport you to the essence mine with scrying orb in inventory
+	Complete Biohazard
+	[Diary] Ardougne Easy: Enter Combat Training Camp
+	
+	Barcrawl Ardougne
+	Complete Ardougne Easy Diary, use XP on Agility
+		If not 30 Agility yet, hold on to the lamp until you are (see end of this section)
+	Grab pickaxe from bank, mine iron by Monastery to 17 Mining (bank these and cloak tele to get back)
+	
+	[INV] 2k+ coins, barcrawl card, small fishing net, food, knife, Ardy diary lamp (if below 30 agil), chronicle
+	Minigame tele to Fight Pits (or take boat to Brimhaven if tele is on cooldown)
+	
+	Barcrawl Musa Point
+	Buy a Karamjan rum
+	Pick a banana nearby, slice it, use on rum to make banana rum for Tai Bwo Wannai Trio
+	Pick an additional 5 bananas (for MM1)
+	Barcrawl Brimhaven (SE bar)
+	
+	Buy one 3-dose antipoison from Jiminua (just get one for now- these are expensive and gp is limited right now)
+	Walk south, stay along the coast to not get hit by things from Tai Bwo Wannai Cleanup
+	Fish at least 200 karambwanji to feed kittens
+	
+	Chronicle to Champions' Guild
+	Start Dragon Slayer I, minigame tele to Soul Wars (walk if on cooldown), talk to Oziach
+	Chronicle to Champions' Guild (again)
+	Continue Dragon Slayer I, ask all questions
+		Check quest guide to make 100% sure you asked all questions
+	
+	[INV] Fly fishing rod, 500 feathers, 2 soft clay, chronicle
+	Go to Barbarian Village
+	Craft 2 unfired bowls, only fire one of them
+	Fish trout to 30 Fishing in Barbarian Village
+		Bank a few of these to cook later for Death Plateau (10 cooked trout needed)
+		When banking pick up leather gloves in Edgeville, equip, grab 3 nettles
+	
+	Home tele to Lumbridge, fish trout/salmon to 35 Fishing
+	
+	[INV] Pickaxe, lit candle or torch
+	Start The Lost Tribe (until you need to go to Varrock Library)	
+	Get antifire shield from Duke for Dragon Slayer I
+	Go to Al-Kharid, complete Prince Ali Rescue
+	If somehow not yet 30 Agility, train on Al-Kharid course and use the Ardy Diary lamp on Agility
+	Complete Sleeping Giants (3 oak logs, 1 wool (not ball), 10 nails, hammer, chisel, bucket of water)
+	
+	***** 10 hours 23 minutes to get to this point ******
+
+Section 2: Tempoross, Wintertodt, Combat Quests
+
+2A. Tempoross
+
+	Go to Tempoross until 200 permits should be around 58 Fishing. Raise kittens in the process if you cba.
+		Looking to get sapphire necklaces here, anything else is bonus
+		Food from 200 permits will suffice for most quests until karambwans are needed to combo eat
+		Soloing will not get you any Construction XP but will get more rewards
+		Massing is less rewards but easier and gets Construction XP
+		Refer to UIM Colossi's Low level solo guide: https://youtu.be/WzWGjWmUDwI
+	
+	During Tempoross grind:
+		Buy 1 inventory of bronze bars (there is a Shantay shop at Tempoross)
+	
+	After Tempoross grind, boat back to Al-Kharid
+	If you did not get any sapphire necklaces from Tempoross caskets, craft up to 10 of them
+		If you also did not get any gold bars, don't craft any at this time and skip going to Mage Bank for now
+		If you need to get 22 Crafting to make necklaces:
+			Turn in Dwarf Cannon for Crafting XP (bring Nulodion's Notes & Ammo mould)
+			Cut any uncut sapphires you have
+			Craft tiaras from any silver bars from caskets
+			Do NOT cut opals/jades/red topazes yet as you will break a lot of them
+	
+	Minigame tele to Soul Wars, grab knife from bank, leave to Edgeville
+	Take lever to Wildy, go to Mage Bank 
+	Buy 20 cosmic runes
+	Enchant sapphire necklaces into games necklaces
+	
+	[INV] Steel axe, tinderbox, forestry kit
+	Minigame tele to Soul Wars
+		Run West then North to the top center of the island
+	Chop and burn teaks until 50 firemaking then stop burning and just chop, until 60 Woodcutting
+		Doing forestry events will boost wc xp
+		Chance of rollling magic logs at wintertodt starts at 50 wc but doulbes at 60 wc 
+		(Optional) Keep extra teak logs for future tick manipulation skilling
+
+
+2B. Wintertodt
+
+	*** If you recieved magic logs from revs skip to 2C ***
+	
+		Go to Wintertodt until you get 12 magic logs, raise kittens in the process
+			Save crates until 75 firemaking 
+			75 FM is highest requirement for QPC and you should get an extra wc level or 2 
+			If you dont get magic logs by now just keep going until you do
+				You can stay until 99 Firemaking if you want
+		Fletch as little or as much as you want
+		If you solo, this will get extra Construction XP
+		If you did not get any games necklaces earlier, don't worry about turning in cats
+
+******* 40 hours at this point *********
+
+
+2C. Early Combat Quests
+
+	Complete Witch's House 
+		
+	Use supplies from Temp/Todt to get 27 Crafting, craft 2 sapphire amulets and enchant ONE into Amulet of Magic
+		Save the other amulet for Making History
+		Alternatively, buy 350 soda ash/buckets of sand from Fishing Trawler Chaterships
+		Smelt and blow in Edgeville (save at least 7 molten glass)
+	
+	[INV] mind runes, 5 coins, 6 logs, food
+	Complete Fight Arena
+		NOTE: Fights were slightly updated after release of Secrets of the North in January 2023
+		      	Unless you react preemptively you have to tank at least one hit from Bouncer and Khazard (Rip LowLife108)
+		      	Shouldn't be a problem since you'll be well beyond 10 hp by this point
+	Complete Tree Gnome Village
+		Pick up purple dye for RFD goblins later
+		Continue Waterfall Quest, get Glarial's Pebble from Gnome Village
+	Take tree to Grand Exchange, then Gnome Stronghold
+	
+	Pick up two toads NW of Grand Tree
+	Start The Grand Tree (until you need to go to Hazelmere)
+	
+	[INV] Glarial's pebble, Nulodion's notes, ammo mould, rope, 6 air/water/earth runes, food
+	Complete Waterfall Quest (should have a games neck to Barb, otherwise Minigame tele)
+		Drop runes outside tomb
+	Complete Dwarf Cannon (if you haven't already)
+	Ardy cloak and walk south (or Trawler/NMZ Minigame tele) to get to Hazelmere, continue The Grand Tree
+		sell mithril seeds to general store in Port Khazard
+	
+	[INV] Brooch, Scrying orb, Silverlight, armour, food, spade, mind runes, 53k coins
+	Chronicle to Varrock
+	Buy rune sword, green chaps/vambs, coif, black legs/helm from Champion's Guild
+	Buy bronze sword from sword shop (for Horror From The Deep)
+	Buy black platebody from Horvik
+	Buy willow shortbow, maple shortbow, oak LONGBOW (ghosts ahoy), and 250 steel arrows from Lowe
+	
+	Search the Varrock Castle Library for Goblin Symbol Book (for The Lost Tribe)
+	Complete Enter The Abyss
+	Complete Demon Slayer
+	
+	Ardy cloak tele, run to Battlefield, spirit tree to Gnome Stronghold
+	Complete The Grand Tree
+		Walk one tile north to safespot black demon
+	
+	Complete Jungle Potion
+		Buy 5 antipoisons and 5 charcoal from Jiminua
+		Kill a jogre in the Pothole dungeon keep bones for Tai Bwo Wannai Trio
+		Get extra volencia moss in case needed for Fairytale 1
+		Get two extra snake weed, one extra ardrigal, one extra rogue's purse for other quests
+			These are for Legends' Quest and Zogre Flesh Eaters
+	
+	Minigame teleport to Pest Control and bank for next section (if below 40 combat, cloak back to Ardy instead)
+
+
+Section 3: Graceful + Fossil Island
+
+3A. Unlocking Graceful
+
+	If you skipped lava dragons buy 1500 mind runes
+	[INV] mind runes, food for cat, cake/wine  
+	Strike hill giants in Edgeville Dungeon, keep Kwuarm, limpwurt roots, nature/law/cosmic runes
+		(Optional) Bury big bones throughout the kills ** highly recommend **
+	
+	[INV] mind runes, telegrab runes, gp, pickaxe
+	Go to Port Sarim
+	Kill Wormbrain in Port Sarim jail, telegrab map piece for Dragon Slayer I 
+		If you did not get 33 magic from hill giants, just buy the map piece
+	
+	Travel to Zeah
+	Mine Doric's Quest ores south of Hosidius (6 clay, 4 copper, 2 iron)
+		Also mine 15 extra clay for future quests
+	Train to at least 46,512 Thieving XP (level 42) at Fruit stalls 
+		Run back and forth between stalls, use strange fruit to restore energy
+		Keep all golo tops, papayas, and 5 apples
+			Bank at vineyard
+		This will get 45 Thieving (req for blackjacking) after completing The Feud
+	
+	[INV] Brooch, Doric's Quest ores (UNNOTED)
+	Teleport to Falador
+	Continue The Lost Tribe in Goblin Village
+	Complete Doric's Quest
+	Complete Recruitment Drive
+		NOTE: As of November 2022, you no longer need to be female to defeat Sir Leye
+	
+	[INV] Knife, 2 buckets, silk, lobster pot, unfired bowl, mind bomb, 37k+ gp
+	Get 2 buckets of sap north of Falador (use knife on evergreen tree)
+	Go to Ice Mountain, talk to Oracle for Dragon Slayer I
+	Go into Dwarven Mine, get map piece
+	Go to pickaxe shop, buy adamant and rune pickaxes
+	
+	Barcrawl Seers Village
+	Buy 20 stews from Seers Village pub
+	
+	[INV] Strike runes, food, insect repellent
+	Start Merlin's Crystal - kill Mordred
+	Run North and collect wax then make black candle
+	Talk to Lady of the Lake in Taverley 
+		On your way to Port Sarim, move your house to Hosidius
+	
+	[INV] Bread, 18750 gp, hammer, saw, 4 oak planks, molten glass, 4 steel bars, house tele, runes for Varrock tele
+	In Falador talk to estate agent and move POH to Hosidius
+		Should have well beyond 25 Construction from Temp/Todt by now. If not, get it w/ planks from Tempoross
+	Continue Merlin's Crystal in Port Sarim
+	Tele to POH, leave and reenter in Building Mode
+	Build POH workshop, Crafting Table 2 and craft 4 clockworks
+	Tele to Varrock
+	
+	[INV] Chef's hat, gp, pickaxe
+	Go to Cooking Guild, buy 10 garden pies
+	Read altar for Merlin's Crystal
+	Steal cup of tea
+	Mine 50 essence for Priest in Peril if needed
+	Complete Shield of Arrav
+	
+	[INV] Opal, cup of tea, gp, 2 ropes, p&m, vial, tinderbox, charcoal, rune sword, food, Varrock tele runes
+	Go towards Paterdomus, kill 2 bats near limestone mine, take both sets of bat bones
+	Kill temple dog for Priest in Peril
+	Complete The Dig Site
+		Obtain opal during quest if you don't have one yet
+		Give Level 3 certificate to Curator for fruit blast for RFD ("Something to drink")
+	Complete Varrock Museum cleaning finds (clean necklace + 5 other items)
+	Talk to Historian Minas upstairs for quest-related Kudos (use any lamps on best skill you can)
+	Talk to Roald for Priest in Peril
+	
+	Smith 4 bronze wire at Varrock West Bank
+	Get 40 Agility on Varrock Rooftop course
+	
+	Start Bone Voyage (until you need to go to Port Sarim)
+		POH tele to Hosidius to get to WC Guild
+		Buy mithril axe while at WC Guild
+	
+	Complete Priest In Peril (50 unnoted essence needed for this part)
+	Buy 1 raw shark
+
+********* 49 hours *************
+
+	Train at Canifis Rooftop course until you have a total of 260 marks of grace
+		Getting enough marks for graceful will take upwards of 14 hours. 
+	
+	Tele to Burthorpe (minigame tele or games neck)
+	Buy 5 Asgarnian ales & 12 wizard's mind bombs from bartender
+	Buy full graceful set
+
+
+3B. Unlocking Fossil Island
+
+	Go to Lumbridge
+	[INV] Brooch, pickaxe, light source, eye of newt, greenman's ale, rotten tomato, ashes, fruit blast, gp, weapon
+	Complete RFD Introduction
+		Start any RFD subquests you can, talk to Cook for each subquest started
+	Complete The Lost Tribe
+		Buy a bone c'bow and 1k bone bolts
+		Mine the entrance to the swamp cave along the way
+	
+	Start Lost City (until you need to go to Entrana)
+	
+	Teleport to Camelot (or walk from Ardougne if below 45 Magic)
+	Complete Merlin's Crystal
+	Start Holy Grail (talk to Arthur and Merlin)
+	Move POH to Pollnivneach
+	
+	[INV] (mind runes, food, no armour/weapons)
+	Go to Port Sarim
+	Continue Bone Voyage in Port Sarim bar
+	Talk to High Priest on Entrana for Holy Grail
+	Continue Lost City
+		Chop five dramen branches but only create one staff
+	Camelot Tele or Ardy Cloak and run to Galahad's House near McGrubor's Woods
+	LMS Tele and run to Edgeville
+	Get 31 crafting using silver bars if not already 
+		Craft 1 Dramen Branch into a staff
+	
+	Home Tele
+	[INV] Dramen staff, stake, hammer, garlic, magic table napkin, combat gear, food, spade, pickaxe, rope, knife
+		(no slash or magic when going against the sourhog, vampyre can be whatever)
+	Complete Lost City
+	Complete Porcine of Interest
+	Go to Draynor Manor
+	Go upstairs to get whistles and napkin for Holy Grail
+	Complete Vampyre Slayer
+	Dig up skull in grave behind Draynor Manor for Fairytale I
+	
+	Ardy cloak tele
+	Get 50 mining at Ardougne Monastery iron (bank the ores)
+	Buy at least 5 rubies from Ardougne gem stall
+	Buy sand/soda ash at Port Khazard until you have enough for 40 Crafting
+	Get 40 Crafting	
+	
+	Get 59 Magic at this time if you didn't earlier
+		Library will yeild around 100k xp/hr and is 100% free training method
+		Sail to Zeah, run to Arceuus Library and turn books in for the magic xp
+		(optional) If you have extra dueling rings/law runes, swap spellbook at Tyss and use Arceuus Library tele after restoring energy at Ferox
+	Teleport to Camelot and run North to Relleka
+		Start The Giant Dwarf
+		Go to Blast Furnace and get 40 smithing
+			Use Strange Fruit for restoring run energy
+			Keep at least 9 coal (for Fremennik Isles)
+			Before leaving, smith the following: steel longsword, 2 steel swords, steel mace, steel warhammer, steel dagger
+	
+	Telegrab 25 gold bars under Varrock West Bank (can skip if you got this many from Tempoross)
+	Craft and enchant as many digsite pendants as you can (minimum 5)
+	Craft and enchant as many dueling rings as you can (minimum 10)
+	Craft and enchant 5 games necklaces 
+	Craft and enchant 3 necklaces of passage 
+	
+	[INV] Digsite pendant, gp, saw, hammer, 2 oak planks, iron bar, 5 nails, 2 vodka, Marrentill potion (unf), Varrock tele runes
+	Digsite tele and buy 285 steel nails from sawmill (can skip if you have at least 375 in bank)
+	Complete Bone Voyage
+		Repair bank after quest 
+		Unlock House on the Hill teleport and mushtrees (except sticky swamp)
+
+Section 4: Fairy Rings & Thieving
+
+	[INV] Pickaxe, Excalibur, 2 magic whistles, gear to fight Black Knight Titan
+	Sail to Brimhaven
+	Continue Holy Grail (kill titan)
+	Cloak tele and sail to Brimhaven again
+	Complete Holy Grail
+	
+	[INV] 5 silver ore, gp, cowhide, sickle mould, holy symbol mould, Varrock tele runes, bucket of water, dueling ring
+	Go to Al-Kharid
+	Start Temple of the Eye
+	Smelt 5 silver bars, craft sickle and unstrung holy symbol 
+	Tan cowhide into hard leather
+	Varrock tele and talk to Dark Mage
+		Exit through fire rift to get back to Al Kharid
+	
+	Bank at PvP Arena
+	Go to Mage Training Arena and get enough points to purchase a Mud Rune (1 tele, 1 grave, 1 alchemeist, 15 enchant)
+	[INV] Bucket of sap, mud rune, maple logs, oak logs, hammer, saw, pestle and mortar, dueling ring
+	Complete The Eyes of Glouphrie (Necklace of Pasage Tele to outpost)
+		Nightmare Zone tele when having to talk to Hazelmere
+	
+	Tele to PvP Arena
+	[INV] 4 Beads, chisel, pickaxe, dueling ring
+	Continue Temple of the Eye and take free teleport to Wizard's Tower
+	Complete Imp Catcher
+	Complete Temple of the Eye
+	
+	Tele to PvP Arena
+	[INV] Any gloves, 4 buckets, gp, strike/magic casts, magic attack gear
+	Complete The Feud
+		Get 4 Ugthanki dung
+	Get 50 Thieving via Blackjacking
+		Buy wines from bar for food
+	(Optional) Unlock rune shop from Ali Morrisane
+	
+	[INV] Silver sickle, Ghostspeak amulet, tinderbox, axe, 2 ashes, hammer, combat gear, food
+	Complete Nature Spirit
+	Complete Shades of Mort'ton (world 377 for temple)
+	Run North and bank at Canifis
+		Fill Druid pouch with charges on the way up
+	[INV] Druid pouch (with 5 charges), blessed silver sickle, 6 planks, hammer, 225 steel nails, combat gear, gp, steel longsword, 2 steel swords, steel mace, steel warhammer, steel dagger
+	Complete In Search of the Myreque
+	
+	[INV] Dramen staff, farming equipment, weapon, food, 6 free spaces, falador tele, varrock tele, lumbridge tele
+	Complete Fairytale I
+		Talk to gardeners: Port Sarim spirit tree > Falador allotment > Falador Tree > Varrock Tree > Lumbridge Tree > Run back to Martin
+		Depending on the items you receive, complete other tasks necessary to obtain them and finish the quest
+			Nature talisman is the only hard one (play GotR and buy one for 50 pearls)
+		Flinch Tangleroot
+	
+	Start Fairytale II, unlock Fairy Rings (no levels or items required)
+	
+	Tele to Burthorpe (minigame tele or games neck)
+	Buy 50-100 lockpicks and 100 iron knives in Rogue's Den
+		Note: The Desert Treasure gilded cross chest was allegedly nerfed so it may not require this many
+	
+	Complete Rogue's Den for full Rogue outfit
+		Cook raw food on fire while waiting for run energy to recharge between tries
+	
+	Travel to Varlamore and pickpocket wealthy citizens until 53 Thieving 
+
+
+Section 5: Completing RFD
+
+	Complete Family Crest (shrimps, salmon, tuna, bass, swordfish, pickaxe, 2 rubies, ring mould, necklace mould, antipoison, blast spells)
+		Choose Chaos gauntlets for Kamil fight (go to the Johnathan at the bar near the Varrock Sawmill)
+	
+	Tele to Falador, talk to Kaylee in the pub about RFD Mountain Dwarf
+	Complete RFD Goblins (bread, orange slices, purple dye, gnome spice, fishing bait, bucket of water, charcoal)
+	Complete RFD Mountain Dwarf (320 coins, milk, flour, egg, bowl of water, 4 asgarnian ales, gloves)
+	Get 42 Crafting and craft 2 fishbowls
+	Complete RFD Pirate Pete (raw cod, p&m, 3 bread, knife, fishbowl, needle, 3 bronze wire)
+		Minigame tele to Fishing Trawler to get the crab meat, then charter to Catherby to fish a cod
+	
+	[INV] mind runes/weapons/armour, maze key, food, hammer, 3 planks, 90 steel nails, 2k gp, prior map pieces
+	Continue Dragon Slayer I
+		Go to Rimmington, complete Melzar's Maze, get map piece, create Crandor map
+		Go to Port Sarim, buy and repair boat
+		Go to Draynor, hire Ned to captain your boat
+			Buy 10 rope from Ned
+	
+	[INV] Antifire shield, weapon/casts, full inv of food
+	Go to Crandor for Dragon Slayer I, enter dungeon, resurface, enter again
+	Open Crandor shortcut in dungeon before fighting Elvarg
+	Kill Elvarg, take head
+	Pick up 4 red spiders eggs after defeating Elvarg
+	Go out of the volcano and kill a monkey for its bones
+	
+	Minigame tele to Soul Wars
+	Complete Dragon Slayer I
+	Grab unstrung holy symbol and ball of wool from bank, create strung symbol
+	Go to Monastery, bless holy symbol
+	
+	*** AT THIS POINT DO NOT TURN IN THE NEXT KITTEN THAT FULLY GROWS ***
+		Should have around 4k deaths by now anyways
+	
+	[INV] vial, p&m, papyrus, 4 soft clay, papyrus, hammer, chisel, necklace of passage, digsite pendent, varrock tele, waterskins
+	Complete The Golem
+		Use Necklace of passage teles
+		Get phoenix feather near necklace tele
+		Grab extra black mushroom
+		Get gems from throne near end of quest
+	
+	[INV] Silverlight, strange implement, black armour, silver bar
+	Complete Shadow of the Storm (silverlight, strange implement, priest gown (top/bottom), black wizard hat, black shroom, silver bar)
+	
+	Complete Temple of Ikov (iron knives, ring of recoil, 20 UNNOTED limpwurt roots)
+		Not required to grab boots of lightness since you have graceful
+		You do *not* need a yew/magic bow for this, you can use thrown weapons with an ice arrow equipped
+	First Trip:	1 inventory of swordfish and 2 rings of recoil will be enough to finish the boss fight
+	Second Trip:	Bring food, varrock tele, 20 unnoted limpwurts
+	
+	[INV] Spade, necklace of passage
+	Teleport to the outpost
+	Start Making History (until needing to go to Port Phasmatys)
+	
+	Superheat 7 iron ores into bars
+	Smith 1 iron spit
+	Cook nettle tea (nettles into bowl of water on range)
+	Pickpocket buttons from HAM members if still needed
+	Get 18 slayer
+	Go to Draynor Manor
+	Start Animal Magnetism (talk to Ava)
+	
+	[INV] 6 pots, 12 buckets of slime, weapons/armour, g'speak ammy, dramen staff, sapphire amulet
+	Go to Haunted Woods Fairy Ring (ALQ)
+	Kill 6 chickens, grind bones into bonemeal, repeat for another 6 bonemeal, claim 60 Ecto-tokens
+	
+	Start Ghosts Ahoy at Velorina, continue until needing to visit Old Crone
+	Continue Making History
+	
+	[INV] Ectotokens, milk, nettle tea, bowl of water, g'speak ammy, silk, needle, thread, knife, spade, dyes,
+		oak longbow, 400+ gp, gear to kill lvl 32 lobster
+	Continue Animal Magnetism at Alice
+	Go to Crone, continue Ghosts Ahoy and Animal Magnetism
+	
+	Fairy ring from Canifis to Haunted Woods to get back to farm
+	Continue Animal Magnetism until given undead chickens
+		If you need extra dyes for Ghosts Ahoy, complete Animal Magnetism through Turael step
+			See [INV] tag below for needed items
+	Complete Ghosts Ahoy
+	
+	[INV] 5 iron bars, hammer, undead chickens, mith axe, buttons, hard leather, holy symbol, games neck
+	Complete Animal Magnetism
+	
+	Fairy ring to AJR
+	Talk to Blanin, east of the Longhall for Making History
+	Teleport back to the Outpost to complete Making History
+	*** At this point the goal is to have a fully grow cat, while waiting work on slayer and prayer ***
+	
+	Train Ranged to 37
+		Do slayer tasks or crabs
+	
+	[INV] 1 law and air rune, needle, 2 thread, pickaxe, rune sword, rope, armor, lightsource, knife, bow and arrows, food, gp, waterskin, necklace of passage, food
+	Necklace passage to desert
+	Carpet ride to Nardar
+	Complete Spirits of the Elid
+	Get Kwuarm cleaned in Nardar
+	(optional) go get mage arena cape
+		Can safespot but if you burried bones during limpwurt grind you should be at 37 prayer now
+		Cape only offers 0.3s faster dps 
+	
+	If you did NOT get 43 Prayer earlier, kill Blue dragons in Taverley Dungeon w/ Water Blast 
+		Don't pick up hides, not worth the effort
+		Use bones at Ecto or Chaos Altar for 43 Prayer. 
+		Remember to get dusty key 
+	
+	Tele to Barbarian Outpost and complete Barcrawl
+	[INV] 1 of each ele rune, bronze sword, any arrow, glass, tbox, hammer, 60 steel nails, 2 planks, swamp tar, games neck
+	Complete Horror From The Deep
+		Can just bring mage gear and hide during melee/ranged phases
+	
+	Complete Haunted Mine
+	
+	[INV] Gear to kill wolves, axe, 100 feathers, knife, hammer, chisel, food
+	Complete Big Chompy Bird hunting
+		Make at least 20 ogre arrows
+		Get 2 extra raw chompies for RFD Skrach
+	Bank at Castle Wars
+	
+	[INV] Runes for cumbled undead, vial of water, Rogue's Purse, Snake weed, ring of dueling
+	Complete Zogre Flesh Eaters
+		Save the restores for Desert Treasure
+	Complete Observatory Quest (3 planks, bronze bar, molten glass)
+	
+	*** When you have a fully grown cat complete the following: ***
+	Complete RFD Evil Dave (about 10 stews)
+	Complete Ichlarin's Little Helper (tinderbox, willow log, bag of salt, bucket of sap, full waterskin, linen (obtainable in quest)
+	Complete Ratcatchers (4 cheese, rat poison, clean marrentill, unicorn horn dust, bucket of milk, catspeak amulet, pot of weeds, tinderbox, gp, snake charm)
+		Fairy ring BIS for unicorn horn
+	Complete A Tail of Two Cats (Catspeak Amulet, 5 deaths runes, logs, tinderbox, bucket of milk, shears, 4 potato seeds, rake, seed dibber, vial of water, desert shirt/robe)
+	*** End of Cat required quests -- Highly recommend to let cat overgrow then turn into wily cat to get spices later on in the account ***
+	
+	[INV] Milk, egg, flour, cake tin
+	Complete RFD Lumbridge Guide (pot, egg, flour, cake tin)
+	
+	[INV] Gear to kill chompies, axe, iron spit, raw chompy, tbox, pickaxe, ball of wool, bellows 
+	Complete RFD Skrach
+	
+	[INV] 2 ropes, bow/arrows, spade, plank, bucket, tinderbox, strike casts, graceful outfit, food
+	Complete Underground Pass
+		Write down your path on the platform puzzle, refer to that for Regicide
+		With the addition of the Warped Sceptre & the combat rebalance it is no longer necessary to use Iban's and therefore is recommended to NOT spend 200k to upgrade
+	
+	Get 46 crafting
+	[INV] 6k gp, tbox, raw shark, combat runes, melee gear, bucket, axe, knife, law/air/earth runes for teles
+	Complete The Fremennik Trials
+		Bring dramen branch/knife for Koschei fight
+	Complete The Fremennik Isles
+		** This is extremely risky as you can get combo hit and trolls can hit between 15-21 **
+		Not completly necessary as the defence level to wear the Neitiznot is 55 (Will be around lvl 40 when doing the quest)
+			If you decide to not do this now then Fairy ring CIR and complete Getting Ahead
+		
+	Complete Monkey Madness I (gold bar, ball of wool, karamjan monkey bones)
+		Recommend using ardy cloak to tele out and using the spirit tree near the clock tower to get back to the stronghold
+		First trip: Food, antipoison, ardy cloak
+		Second trip: monkey dentures, m'amulet mould, gold bar, food, antipoison, ardy cloak
+		Third trip: 5 bananas, monkey bones, m'amulet mould, enchanted bar ball of wool, staff and death runes, food, antipoison, ardy cloak
+			Kill gorilla, zombie monkey, and monkey archer for their bones when going to wall of flame
+			You can recharge prayer upstairs in the temple
+			Get 4 talismans from monkey child
+		Fourth trip: all 4 sets of monkey bones, 4 talismans, food, antipoison, ardy cloak
+		Fifth trip: monkey greegree, monkey, ardy cloak, food, death runes, amulet of magic
+			After talking with Garkor teleport into the fight
+			Pray mage, max hit is 32!
+			Go to the Southern bridge and run West to have the gnomes deal most of the damage
+				This can poison you but it only ticks for 1 damage over 45 seconds
+			If bad rng on final hit ardy cloak out recharge prayer and try again
+		Put larger XP on attack/defence
+	
+	[INV] 60+ gp, 10 bread, 10 trout, iron bar, asgarnian ale, food for Troll Stronghold, games necklace
+	Complete Death Plateau
+	Complete Troll Stronghold (don't forget climbing boots)
+	Complete Troll Romance 
+	
+	[INV] Spade, lit candle, rope, bronze wire, chisel, 3 bones, Iban's + runes, antipoison
+	Complete Shilo Village
+		(Optional) Sell quest items to Yanni for 2k gp
+	
+	Complete Heroes' Quest (Harralander pot unf, pickaxe, strike casts, antifire shield, fishing rod/bait)
+	
+	Start Legends Quest 
+		Pick a vanilla pod along south coast
+	Complete RFD Sir Amik Varze
+	Buy Rune Gloves
+	
+	Get 70 Cooking
+		Mess Hall recommended, buying grapes from RFD chest and making wines is also okay if you have the cash
+	Complete RFD Awowogei (m'speak ammy, karamja greegree, gorilla greegree, ninja greegree, zombie greegree, banana, monkey nuts, rope, knife, p&m)
+	
+	Complete Desert Treasure (shantay passes, 650 gp, 12 magic logs, 6 steel bars, 6 molten glass, ashes, charcoal, blood rune, bones, silver bar, garlic, p&m, spice, cake, climbing boots, iron bar,
+		facemask, tinderbox, 50+ lockpicks)
+		Use Fire bolt to kill Kamil and Ibans for the rest of the bosses
+	
+	Complete RFD Finale
+
+
+The next sections can be done together or seperate depending on the goals of your account. Unlocking Priffddinas will require less quests than DS2 but requires more skilling
+
+Unlocking Prifddinas:
+
+	Complete Regicide (25+ coal, bow/arrows, 2 ropes, spade, limestone (not brick) or pickaxe, tbox, 4 balls of wool, p&m, gloves, pot, axe)
+		Create extra barrel of Naphtha for MEP1
+	Complete Roving Elves (Glarial's pebble, key, spade, rope, lots of food)
+		Choose the bow
+		Start MEP1 with Eluned immediately afterwards to unlock Lletya
+	Complete Mourning's End Part I (bear fur, 2 silk, red/yellow/green/blue dyes, bucket of water, feather, rotten apple, premade t'd crunch, magic logs, leather, ogre bellows, barrel of naphtha)
+	Complete Mourning's End Part II (mourner gear, chisel, rope, catalytic talisman or item list)
+		HIGHLY RECOMMEND getting Catalytic Talisman from GoTR (it will act as a death talisman)
+
+
+Unlocking Wrath runes (DS2): 
+
+	rfd final boss
+	aid of the myreque
+	darkness of hallowvale
+	taste of hope
+	lunar dip
+	dream mentor
+	legends quest
+	
+	creature of fenkenstrain
+	garden of tranquility
+	what lies below
+	defender of varrock
+	
+	
+	path of glouphrie
+	garden of death
+	scorpion catcher
