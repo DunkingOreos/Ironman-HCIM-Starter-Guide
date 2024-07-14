@@ -92,10 +92,10 @@ ALTERNATE START -- If you do not want to go to the wilderness and risk status sk
 END OF ALTERNATE START
 
 
-Section 1: Unlocking Ardougne Cloak
+#Section 1: Unlocking Ardougne Cloak
 
 
-1A. Starting Off (SKIP DOWN TO LINE 107 IF YOU COMPLETED WILDERNESS START)
+##1A. Starting Off (SKIP DOWN TO LINE 107 IF YOU COMPLETED WILDERNESS START)
 	
 	Complete Tutorial Island
 		As of 9 November 2022, it is no longer required to be female for Recruitment Drive
