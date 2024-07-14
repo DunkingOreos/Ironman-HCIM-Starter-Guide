@@ -23,9 +23,10 @@
 	
 	Set up a new account through the Jagex Launcher.
 		This is required in order to claim 10k from Stronghold of Security
-		If you dont want to use Jagex Launcher, get the 10k by picking up steel platelegs in the wilderness and selling to leg shop in Al Kharid
+		If you dont want to use Jagex Launcher: 
+  			Pick up at least 15 steel platelegs in the wilderness and sell to leg shop in Al Kharid one per world.
 	
 	
 	[INV] Indicates inventory setups throughout the guide
-		A vast majority of the combat in this guide will utilize magic as the combat reblance in May 2024 has made magic even stronger/better QOL
-		Using mind runes and and air staff will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
+		A vast majority of the combat in this guide will utilize magic due to the combat reblance in May 2024.
+		Air strike will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
