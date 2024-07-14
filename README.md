@@ -34,6 +34,12 @@
 ## Links to the Guide:
 [Full Guide]
 
+[Section 1: Unlocking Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Unlocking%20Ardougne%20Cloak)
+[Section 2: Tempoross, Wintertodt, Combat Quests](https://github.com/DunkingOreos/OSRS/blob/main/Section%202%3A%20Tempoross%2C%20Wintertodt%2C%20Combat%20Quests)
+[Section 3: Graceful + Fossil Island](https://github.com/DunkingOreos/OSRS/blob/main/Section%203%3A%20Graceful%20%2B%20Fossil%20Island)
+[Section 4: Fairy Rings & Thieving](https://github.com/DunkingOreos/OSRS/blob/main/Section%204%3A%20Fairy%20Rings%20%26%20Thieving)
+[Section 5: Completing RFD](https://github.com/DunkingOreos/OSRS/blob/main/Section%205%3A%20Completing%20RFD)
+
 
 [Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
 
