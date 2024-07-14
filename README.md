@@ -10,9 +10,7 @@
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
 [Youtube](https://www.youtube.com/@Dunking_Oreos)
 [Twitter](https://www.twitter.com/Dunking_Oreos)
-
-### I Created a 5 part Part Video Version of this Guide
-[Series](Link)
+[5 Part Video Version of This Guide](Link)
 
 
 
