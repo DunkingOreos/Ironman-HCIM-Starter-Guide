@@ -32,6 +32,6 @@
 		Air strike will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
 
 ## Two Methods of Starting:
-[Wilderness Start](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start)
+[Wilderness Start](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
 
 [Non Wilderness Start]
