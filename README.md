@@ -30,3 +30,7 @@
 	[INV] Indicates inventory setups throughout the guide
 		A vast majority of the combat in this guide will utilize magic due to the combat reblance in May 2024.
 		Air strike will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
+
+## Two Methods of Starting:
+[Wilderness Start]
+[Non Wilderness Start]
