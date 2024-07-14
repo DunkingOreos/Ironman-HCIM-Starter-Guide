@@ -32,7 +32,7 @@
 		Air strike will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
 
 ## Links to the Guide:
-[Full Guide](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)
+[Full Guide: All Sections in 1 Page](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)
 
 [Section 1: Unlocking Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Unlocking%20Ardougne%20Cloak)
 
