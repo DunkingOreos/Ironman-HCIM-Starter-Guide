@@ -16,16 +16,16 @@
 
 
 ## Setup/General notes:
-	This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
-		Average completion of Barrows Gloves through this guide is 105 hours.
-		It is recommended to use the Quest Helper and Shortest Path plugins throughout this guide.
-		Not meant to be a speedrun and is more so a route of getting items and doing quests in a logically efficient manner.
+This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
+	Average completion of Barrows Gloves through this guide is 105 hours.
+	It is recommended to use the Quest Helper and Shortest Path plugins throughout this guide.
+	Not meant to be a speedrun and is more so a route of getting items and doing quests in a logically efficient manner.
 
-	Set up a new account through the Jagex Launcher.
-		This is required in order to claim 10k from Stronghold of Security
-		If you dont want to use Jagex Launcher, get the 10k by picking up steel platelegs in the wilderness and selling to leg shop in Al Kharid
+Set up a new account through the Jagex Launcher.
+	This is required in order to claim 10k from Stronghold of Security
+	If you dont want to use Jagex Launcher, get the 10k by picking up steel platelegs in the wilderness and selling to leg shop in Al Kharid
 
 
-	[INV] Indicates inventory setups throughout the guide
-		A vast majority of the combat in this guide will utilize magic as the combat reblance in May 2024 has made magic even stronger/better QOL
-		Using mind runes and and air staff will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
+[INV] Indicates inventory setups throughout the guide
+	A vast majority of the combat in this guide will utilize magic as the combat reblance in May 2024 has made magic even stronger/better QOL
+	Using mind runes and and air staff will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
