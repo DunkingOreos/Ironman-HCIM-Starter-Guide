@@ -6,7 +6,7 @@
 ####	Kirbuti did an amazing job constantly updating the guide with new information and strategies to accomodate things that were reworked over the years.	
 
 
-### Shameless plugs:
+## Shameless plugs:
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
 [Youtube](https://www.youtube.com/@Dunking_Oreos)
 [Twitter](https://www.twitter.com/Dunking_Oreos)
