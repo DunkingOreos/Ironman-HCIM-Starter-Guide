@@ -1,6 +1,5 @@
 # The Best Way to Start an Ironman/HCIM in 2024
-
-### Last updated in July 2024.
+Last updated in July 2024.
 
 ## Shameless plugs:
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
