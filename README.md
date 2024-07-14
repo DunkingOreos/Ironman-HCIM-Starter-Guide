@@ -33,4 +33,5 @@
 
 ## Two Methods of Starting:
 [Wilderness Start](https://github.com/DunkingOreos/OSRS/blob/main/Barrows%20Gloves%20Efficient%20Guide%20-%20Wilderness%20Start)
+
 [Non Wilderness Start]
