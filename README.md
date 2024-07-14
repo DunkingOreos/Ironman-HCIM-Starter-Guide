@@ -1,6 +1,6 @@
 # The Best Way to Start an Ironman/HCIM in 2024
 
-## This guide was last updated in June 2024.
+## Last updated in July 2024.
 
 ### This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
 ####	Kirbuti did an amazing job constantly updating the guide with new information and strategies to accomodate things that were reworked over the years.	
