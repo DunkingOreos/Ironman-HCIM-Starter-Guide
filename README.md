@@ -2,10 +2,6 @@
 
 ## Last updated in July 2024.
 
-### This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
-####	Kirbuti did an amazing job constantly updating the guide with new information and strategies to accomodate things that were reworked over the years.	
-
-
 ## Shameless plugs:
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
 [Youtube](https://www.youtube.com/@Dunking_Oreos)
@@ -44,6 +40,10 @@
 
 [Section 5: Completing RFD](https://github.com/DunkingOreos/OSRS/blob/main/Section%205%3A%20Completing%20RFD)
 
+##
+## Credits
+This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
+Kirbuti did an amazing job constantly updating the guide with new information and strategies to accomodate things that were reworked over the years.	
 
 [Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
 
