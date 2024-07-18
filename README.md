@@ -8,8 +8,6 @@
 
 [5 Part Video Version of This Guide](Link)
 
-
-
 ## Setup/General notes:
     This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
       Average completion of Barrows Gloves through this guide is 100 hours.
@@ -20,7 +18,6 @@
       This is required in order to claim 10k from Stronghold of Security
       If you dont want to use Jagex Launcher: 
       Pick up at least 15 steel platelegs in the wilderness and sell to leg shop in Al Kharid one per world.
-
 
     [INV] Indicates inventory setups throughout the guide
     A vast majority of the combat in this guide will utilize magic due to the combat reblance in May 2024.
