@@ -26,6 +26,8 @@
 ## Links to the Guide:
 [Full Guide: All Sections in 1 Page](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)
 
+[Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
+
 [Section 1: Unlocking Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Unlocking%20Ardougne%20Cloak)
 
 [Section 2: Tempoross, Wintertodt, Combat Quests](https://github.com/DunkingOreos/OSRS/blob/main/Section%202%3A%20Tempoross%2C%20Wintertodt%2C%20Combat%20Quests)
@@ -36,7 +38,7 @@
 
 [Section 5: Completing RFD](https://github.com/DunkingOreos/OSRS/blob/main/Section%205%3A%20Completing%20RFD)
 
-[Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
+[Section 6: What to do Next](https://github.com/DunkingOreos/OSRS/blob/main/Section%206:%20What%20to%20do%20Next)
 
 ## Credits
 This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
