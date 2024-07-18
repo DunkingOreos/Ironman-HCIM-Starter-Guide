@@ -16,10 +16,10 @@
       It is recommended to use the Quest Helper and Shortest Path plugins throughout this guide.
       Not meant to be a speedrun and is more so a route of getting items and doing quests in a logically efficient manner.
 
-Set up a new account through the Jagex Launcher.
-  This is required in order to claim 10k from Stronghold of Security
-  If you dont want to use Jagex Launcher: 
-  Pick up at least 15 steel platelegs in the wilderness and sell to leg shop in Al Kharid one per world.
+    Set up a new account through the Jagex Launcher.
+      This is required in order to claim 10k from Stronghold of Security
+      If you dont want to use Jagex Launcher: 
+      Pick up at least 15 steel platelegs in the wilderness and sell to leg shop in Al Kharid one per world.
 
 
 [INV] Indicates inventory setups throughout the guide
