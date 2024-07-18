@@ -12,8 +12,7 @@
 
 ## Setup/General notes:
 This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
-
-Average completion of Barrows Gloves through this guide is 105 hours.
+	Average completion of Barrows Gloves through this guide is 105 hours.
 	It is recommended to use the Quest Helper and Shortest Path plugins throughout this guide.
 	Not meant to be a speedrun and is more so a route of getting items and doing quests in a logically efficient manner.
 
