@@ -32,7 +32,7 @@
 
 [Section 2: Minigames & Quests](https://github.com/DunkingOreos/OSRS/blob/main/Section%202%3A%20Minigames%20%26%20Quests)
 
-[Section 3: Skilling Grinds](https://github.com/DunkingOreos/OSRS/blob/main/Section%203%3A%20Graceful%20%2B%20Fossil%20Island)
+[Section 3: Skilling Grinds](https://github.com/DunkingOreos/OSRS/blob/main/Section%203%3A%20Skilling%20Grinds)
 
 [Section 4: Fairy Rings & Thieving](https://github.com/DunkingOreos/OSRS/blob/main/Section%204%3A%20Fairy%20Rings%20%26%20Thieving)
 
