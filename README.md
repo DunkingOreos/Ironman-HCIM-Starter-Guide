@@ -28,7 +28,7 @@
 
 [Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
 
-[Section 1: Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Unlocking%20Ardougne%20Cloak)
+[Section 1: Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Ardougne%20Cloak)
 
 [Section 2: Minigames & Quests](https://github.com/DunkingOreos/OSRS/blob/main/Section%202%3A%20Tempoross%2C%20Wintertodt%2C%20Combat%20Quests)
 
