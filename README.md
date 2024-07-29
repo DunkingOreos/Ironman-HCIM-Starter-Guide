@@ -4,7 +4,11 @@
 [Youtube Playlist - Video Version of This Guide](Link)
 
 ## Shameless plugs:
-[GET /twitter/follow/:Dunking_Oreos](https://img.shields.io/twitter/follow/Dunking_Oreos)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)
+
+
+
+
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
 [Youtube](https://www.youtube.com/@Dunking_Oreos)
 [Twitter](https://www.twitter.com/Dunking_Oreos)
