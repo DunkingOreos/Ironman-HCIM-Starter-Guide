@@ -1,12 +1,12 @@
 # The Best Way to Start an Ironman/HCIM in 2024
 ### Last updated in July 2024.
 
+[Youtube Playlist - Video Version of This Guide](Link)
+
 ## Shameless plugs:
 [Twitch](https://www.twitch.tv/Dunking_Oreos)
 [Youtube](https://www.youtube.com/@Dunking_Oreos)
 [Twitter](https://www.twitter.com/Dunking_Oreos)
-
-[Youtube Playlist - Video Version of This Guide](Link)
 
 ## Setup/General notes:
     This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
