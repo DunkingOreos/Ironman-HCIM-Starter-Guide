@@ -1,10 +1,11 @@
 # The Best Way to Start an Ironman/HCIM ![Static Badge](https://img.shields.io/badge/Last_Updated-July_2024-blue)
 
+## If you would like to support, please follow/subscribe to my social media 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos)
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos)
 [![Twitch Status](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos)
 
-## Youtube Video Playlist of the Entire Guide
+### Youtube Video Playlist of the Entire Guide
 [Youtube Playlist](Link)
 
 
