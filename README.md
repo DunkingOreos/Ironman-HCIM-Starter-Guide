@@ -7,10 +7,6 @@
 [Youtube Playlist - Video Version of This Guide](Link)
 
 
-
-![JNkltzLY_400x400](https://github.com/user-attachments/assets/b91a3309-e105-4083-a6c6-02fd22d52832)
-
-
 ## Setup/General notes:
     This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
       Average completion of Barrows Gloves through this guide is 100 hours.
