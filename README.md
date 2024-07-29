@@ -5,8 +5,10 @@
 
 ## Shameless plugs:
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos)
+[![X (formerly Twitter) Follow @Dunking_Oreos](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos)
+[![Youtube @Dunking_Oreos](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos)
+[![Twitch @Dunking_Oreos](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos)
+
 
 
 
