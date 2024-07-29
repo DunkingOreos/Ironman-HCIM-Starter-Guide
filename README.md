@@ -6,6 +6,7 @@
 ## Shameless plugs:
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)
 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDunking_Oreos)
 
 
 
