@@ -4,7 +4,8 @@
 [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos)
 [![Twitch Status](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos)
 
-[Youtube Playlist - Video Version of This Guide](Link)
+## Youtube Video Playlist of the Entire Guide
+[Youtube Playlist](Link)
 
 
 ## Setup/General notes:
