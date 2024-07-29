@@ -20,7 +20,7 @@
     A vast majority of the combat in this guide will utilize magic due to the combat reblance in May 2024.
     Air strike will be the primary method of DPS until enough kittens are grown for a stockpile of death runes.
 
-## Links to the Guide:
+## Table of Contents:
 [Full Guide: All Sections in 1 Page](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)
 
 [Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start) 
