@@ -1,9 +1,6 @@
 # The Best Way to Start an Ironman/HCIM ![Static Badge](https://img.shields.io/badge/Last_Updated-July_2024-blue) 
 
-### If you would like to support, please follow/subscribe ➤ [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos) [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos) [![Twitch Status](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos)
-<br/> <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos) 
-
-
+### If you would like to support, please follow/subscribe ➤ [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos) [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos) [![Twitch Status](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos) <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos) 
 
 ## Setup/General notes:
     This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
