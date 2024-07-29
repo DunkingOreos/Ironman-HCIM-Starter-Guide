@@ -4,7 +4,8 @@
 [Youtube Playlist - Video Version of This Guide](Link)
 
 ## Shameless plugs:
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)
+![Static Badge](https://img.shields.io/badge/Twitter%20-%20blue?link=https%3A%2F%2Ftwitter.com%2FDunking_Oreos)
+
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDunking_Oreos)
 
