@@ -5,6 +5,9 @@
 
 ## Shameless plugs:
 [![Static Badge](https://img.shields.io/badge/Twitter%20-%20blue?link=https%3A%2F%2Ftwitter.com%2FDunking_Oreos)](https://www.twitter.com/Dunking_Oreos)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos)
+
+
 
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDunking_Oreos)
