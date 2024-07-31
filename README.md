@@ -10,7 +10,7 @@
           <img alt="Watch me on Twitch" title="Watch me Stream on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/Dunking_Oreos?color=8d5cea&labelColor=6441a5&style=for-the-badge&logo=twitch&label=Check out my Stream&logoColor=white"/></a>
       </p>
 
-<br/> <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos)
+<br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos)
 #
 
 ## Setup/General Notes:
