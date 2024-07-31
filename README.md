@@ -11,7 +11,7 @@
       </p>
 
 ---<br/> <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos)
------
+
 
 ## Setup/General Notes:
     This guide is designed to prioritize obtaining Barrows Gloves and then offers paths for DS2 and SoTE.
