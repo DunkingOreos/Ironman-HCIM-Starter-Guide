@@ -1,6 +1,16 @@
 # The Best Way to Start an Ironman/HCIM ![Static Badge](https://img.shields.io/badge/Last_Updated-July_2024-blue) 
 
-#### If you would like to support ❤️ please use the buttons to follow/subscribe on Twitter, Youtube, and Twitch <br/> <br/> [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Dunking_Oreos)](https://www.twitter.com/Dunking_Oreos) [![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ)](https://www.youtube.com/@Dunking_Oreos) [![Twitch Status](https://img.shields.io/twitch/status/Dunking_Oreos)](https://www.twitch.tv/Dunking_Oreos) <br/> <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos)
+#### If you would like to support ❤️ please use the buttons to follow/subscribe on Twitter, Youtube, and Twitch <br/> <br/> 
+<p align="left">
+      <a href="https://www.youtube.com/@Dunking_Oreos?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.twitter.com/Dunking_Oreos?follow_confirmation=1">
+       <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/dunking_oreos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=x&label=Follow&logoColor=white"/></a>
+      <a href="https://www.twitch.tv/Dunking_Oreos">
+          <img alt="Watch me on Twitch" title="Watch me Stream on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/Dunking_Oreos?color=8d5cea&labelColor=6441a5&style=for-the-badge&logo=twitch&label=Check out my Stream&logoColor=white"/></a>
+      </p>
+
+---<br/> <br/> [<kbd> <br> Click Here to Watch the Video Version of this Guide! <br> </kbd>](https://www.youtube.com/watch?v=v_8f2L2B9FM&ab_channel=DunkingOreos)
 -----
 
 ## Setup/General Notes:
