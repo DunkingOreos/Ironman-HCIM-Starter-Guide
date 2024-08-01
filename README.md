@@ -1,6 +1,6 @@
 # Dunking Oreos <img alt="HCIM" width="60px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d9c409df-bda9-4669-8b86-790593222505"/> <img alt="Untrimmed Slayer" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/5533dd8c-4972-4ecd-9207-06c95923365a" /> <img alt="QPC" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e2bd9d45-edda-498c-a247-454afa3973f2" /> <img alt="Sword" width="60px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0b601755-f5a0-4a79-aced-e1951e4b49c0" />
 
-**`HCIM Enthusiast`**
+**`HCIM Enthusiast`** 
 
 As an avid player of Runescape since 2006, I fell in love with the game all over again in 2017 when I started my first hardcore ironman. Over the years I have had many successful and unsuccessful accounts, with my most recent reaching over 2k total and obtaining an untrimmed slayer cape. Recently, I have restarted my HCIM journey and this time documented how I go about starting off an account, as to try and escape the early game as efficently and quickly as possible. I stream on twitch and have started to upload videos to my YouTube channel.
 
