@@ -13,8 +13,7 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
       <a href="https://www.twitch.tv/Dunking_Oreos">
           <img alt="Watch me on Twitch" title="Watch me Stream on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/Dunking_Oreos?color=8d5cea&labelColor=6441a5&style=for-the-badge&logo=twitch&label=Check out my Stream&logoColor=white"/></a>
       </p>
-    <a href="https://www.youtube.com/@Dunking_Oreos?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+
 ---
 
 # The Best Way to Start an Ironman/HCIM [Text Version] ![Static Badge](https://img.shields.io/badge/Last_Updated-July_2024-blue) 
