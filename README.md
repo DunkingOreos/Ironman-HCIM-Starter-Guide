@@ -31,7 +31,6 @@ Table of Contents: <br /> <br />
 # 📺 The Best Way to Start an Ironman/HCIM [Video Version!]
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7](https://ytcards.demolab.com/?id=Klszpat2iro&title=Best+Way+to+Start+a+NEW+Ironman%2FHCIM+in+2024+%7C+Part+1+of+7&lang=en&timestamp=1722616206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7")](https://www.youtube.com/watch?v=Klszpat2iro)
 <!-- END YOUTUBE-CARDS -->
 
 ## Credits
