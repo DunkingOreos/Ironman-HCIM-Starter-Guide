@@ -13,4 +13,4 @@ jobs:
         with:
           playlist_id: PL69--wJhwHXaRoB13qAXronpRWtjLVT9b
           max_title_lines: 2
-          card_width: 350
+          card_width: 300
