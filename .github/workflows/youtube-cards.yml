@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: PL69--wJhwHXZ8-oXklD-tSkQgz3wGZUon
+          playlist_id: PL69--wJhwHXaRoB13qAXronpRWtjLVT9b
           
