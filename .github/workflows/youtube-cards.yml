@@ -12,4 +12,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           playlist_id: PL69--wJhwHXaRoB13qAXronpRWtjLVT9b
-          
+          max_title_lines: 2
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
