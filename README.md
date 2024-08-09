@@ -20,7 +20,9 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
 
 Table of Contents: <br /> <br />
 [Full Guide: All Sections in 1 Page](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)<br />
+
 [Alternate Start - Wilderness](https://github.com/DunkingOreos/OSRS/blob/main/Wilderness%20Start)<br /> 
+
 [Section 1: Ardougne Cloak](https://github.com/DunkingOreos/OSRS/blob/main/Section%201%3A%20Ardougne%20Cloak)<br />
 [Section 2: Minigames & Quests](https://github.com/DunkingOreos/OSRS/blob/main/Section%202%3A%20Minigames%20%26%20Quests)<br />
 [Section 3: Skilling Grinds](https://github.com/DunkingOreos/OSRS/blob/main/Section%203%3A%20Skilling%20Grinds)<br />
