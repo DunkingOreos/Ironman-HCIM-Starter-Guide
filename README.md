@@ -33,8 +33,8 @@ Table of Contents: <br /> <br />
 # 📺 The Best Way to Start an Ironman/HCIM [Video Version!]
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7](https://ytcards.demolab.com/?id=Klszpat2iro&title=Best+Way+to+Start+a+NEW+Ironman%2FHCIM+in+2024+%7C+Part+1+of+7&lang=en&timestamp=1722616206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7")](https://www.youtube.com/watch?v=Klszpat2iro)
 [![First MAJOR Unlock | BEST Way to Start Iron/HCIM in 2024 [2/7]](https://ytcards.demolab.com/?id=__V0XqQpiRs&title=First+MAJOR+Unlock+%7C+BEST+Way+to+Start+Iron%2FHCIM+in+2024+%5B2%2F7%5D&lang=en&timestamp=1723393807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "First MAJOR Unlock | BEST Way to Start Iron/HCIM in 2024 [2/7]")](https://www.youtube.com/watch?v=__V0XqQpiRs)
+[![Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7](https://ytcards.demolab.com/?id=Klszpat2iro&title=Best+Way+to+Start+a+NEW+Ironman%2FHCIM+in+2024+%7C+Part+1+of+7&lang=en&timestamp=1722616206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "Best Way to Start a NEW Ironman/HCIM in 2024 | Part 1 of 7")](https://www.youtube.com/watch?v=Klszpat2iro)
 <!-- END YOUTUBE-CARDS -->
 
 ## Credits
