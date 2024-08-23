@@ -19,7 +19,7 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
 # The Best Way to Start an Ironman/HCIM [Text Version] ![Static Badge](https://img.shields.io/badge/Last_Updated-August_2024-blue) 
 
 Table of Contents: <br /> <br />
-[If you prefer a check box style guide, check out the wiki page](https://oldschool.runescape.wiki/w/Guide:DunkingOreos_Early_Ironman/HCIM_Starter_Guide)<br />
+This guide is now also on the OSRS Wiki, so if you prefer a guide that has checkboxes to better track your progress [CLICK HERE](https://oldschool.runescape.wiki/w/Guide:DunkingOreos_Early_Ironman/HCIM_Starter_Guide)<br />
 
 [Full Guide: All Sections in 1 Page](https://github.com/DunkingOreos/OSRS/blob/main/Full%20Guide)<br />
 
