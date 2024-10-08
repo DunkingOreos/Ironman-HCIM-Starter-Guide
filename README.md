@@ -19,9 +19,6 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
 # The Best Way to Start an Ironman/HCIM [Text Version] ![Static Badge](https://img.shields.io/badge/Last_Updated-October_2024-blue) 
 
 
-![Screenshot 2024-10-08 041557](https://github.com/user-attachments/assets/85a6c593-a571-4f80-a8b8-485c6bf442af)
-
-
 # Table of Contents:
 This guide is now also on the OSRS Wiki, so if you prefer a guide that has checkboxes to better track your progress [CLICK HERE](https://oldschool.runescape.wiki/w/Guide:DunkingOreos_Early_Ironman/HCIM_Starter_Guide)<br />
 
@@ -46,6 +43,8 @@ This guide is now also on the OSRS Wiki, so if you prefer a guide that has check
 [![Best Way to Start a NEW Ironman/HCIM in 2024 | Part 5 of 7](https://ytcards.demolab.com/?id=q56UJ1-U84I&title=Best+Way+to+Start+a+NEW+Ironman%2FHCIM+in+2024+%7C+Part+5+of+7&lang=en&timestamp=1725984058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "Best Way to Start a NEW Ironman/HCIM in 2024 | Part 5 of 7")](https://www.youtube.com/watch?v=q56UJ1-U84I)
 [![Best Way to Start a NEW Ironman/HCIM in 2024 | Part 6 of 7](https://ytcards.demolab.com/?id=GB9KiZGQ6-8&title=Best+Way+to+Start+a+NEW+Ironman%2FHCIM+in+2024+%7C+Part+6+of+7&lang=en&timestamp=1727107213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "Best Way to Start a NEW Ironman/HCIM in 2024 | Part 6 of 7")](https://www.youtube.com/watch?v=GB9KiZGQ6-8)
 <!-- END YOUTUBE-CARDS -->
+
+![Screenshot 2024-10-08 041557](https://github.com/user-attachments/assets/85a6c593-a571-4f80-a8b8-485c6bf442af)
 
 ## Credits
 This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
