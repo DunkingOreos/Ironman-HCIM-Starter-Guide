@@ -9,9 +9,9 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
       <a href="https://www.youtube.com/@Dunking_Oreos?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCVDAJ5ThtDf4CjkL72G56TQ?color=FF0022&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  
        <a href="https://twitter.com/Dunking_Oreos?follow_confirmation=1"><img alt="Twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/follow/dunking_oreos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=x&label=Follow&logoColor=white"/></a>
-
       <a href="https://www.twitch.tv/Dunking_Oreos">
           <img alt="Watch me on Twitch" title="Watch me Stream on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/Dunking_Oreos?color=8d5cea&labelColor=6441a5&style=for-the-badge&logo=twitch&label=Check out my Stream&logoColor=white"/></a>
+      <a href="https://discord.gg/Ep2QujXmD5" alt="DunkingOreos Discord Server"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
       </p>
 
 ---
