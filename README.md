@@ -13,7 +13,7 @@ As an avid player of Runescape since 2006, I fell in love with the game all over
       <a href="https://www.twitch.tv/Dunking_Oreos">
             <img alt="Watch me on Twitch" title="Watch me Stream on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/Dunking_Oreos?color=8d5cea&labelColor=6441a5&style=for-the-badge&logo=twitch&label=Check out my Stream&logoColor=white"/></a>
       <a href="https://discord.gg/Ep2QujXmD5" alt="DunkingOreos Discord Server">
-    <img src="https://img.shields.io/discord/1296033821149495339/1296304078111899670?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    <img src="https://img.shields.io/discord/1296033821149495339?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
       </p>
 
 ---
