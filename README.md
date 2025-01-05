@@ -50,6 +50,7 @@ This guide is now also on the OSRS Wiki, so if you prefer a guide that has check
 <!-- END YOUTUBE-CARDS -->
 
 ![Screenshot 2024-10-08 041557](https://github.com/user-attachments/assets/85a6c593-a571-4f80-a8b8-485c6bf442af)
+![RFD](https://github.com/user-attachments/assets/a15284be-3e2b-4eea-a1db-f77077e504f5)
 
 ## Credits
 This guide takes reference from the 'Optimal Ironman Quest Guide' by the Wiki & Runelite in addition to the "Bofa Rush Ironman v1.4 by Kirbuti (last update: 28 July 2023)". 
