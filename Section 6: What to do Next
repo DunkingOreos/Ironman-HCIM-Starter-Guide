@@ -55,11 +55,16 @@ When not questing, start working towards the following skills:
 		You can buy a kebab, 2 beer, and beer glass during the quest
 		You will be given 1 random item to retrieve
 
-	[INV] 8 watering cans, seed dibber, spade, birdhouse run supplies 
-	Go to the Tithe Farm and start leveling farming, goal is 65
+	[INV] 10 watering cans, seed dibber, spade, birdhouse run supplies 
+	Go to the Tithe Farm and start leveling farming, goal is 65 (use garden pie to boost tier 2 seeds at level 51, boost when grabbing seeds and planting - watering and harvesting doesnt need boost) Should take 10.5 pies to get the 200 fruit for lvl 54
 	Can be done whenever but the sooner the better so we can begin farming contracts for seeds and hespori for bottomless compost bucket
 	Turn in 200 fruit and then do a birdhouse run until 46 hunter, can continue post 46 but unlocking hunter's guild is a minimum
 	Minigame teleport back to Tithe after birdhouse run
+	25x4 method is better and doesnt require any sweaty diagonal running or seed dibber animation skipping (see the tile markers listed below) 
+		[{"regionId":7222,"regionX":30,"regionY":28,"z":0,"color":"#FFFFFF00"},{"regionId":7222,"regionX":27,"regionY":32,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":25,"regionY":32,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":36,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":42,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":48,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":52,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":40,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":34,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":54,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":58,"z":0,"color":"#FFA05808"}]
+	^^ Just doubleclick the line and import ^^
+
+
 
 	[INV] Light source, food
 	Complete Death to the Dorgeshuun
