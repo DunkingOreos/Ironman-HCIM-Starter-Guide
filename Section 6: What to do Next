@@ -55,20 +55,6 @@ When not questing, start working towards the following skills:
 		You can buy a kebab, 2 beer, and beer glass during the quest
 		You will be given 1 random item to retrieve
 
-	[INV] 10 watering cans, seed dibber, spade, birdhouse run supplies 
-	Go to the Tithe Farm and start leveling farming, goal is 65 (use garden pie to boost tier 2 seeds at level 51, boost when grabbing seeds and planting - watering and harvesting doesnt need boost) Should take 10.5 pies to get the 200 fruit for lvl 54
-	Can be done whenever but the sooner the better so we can begin farming contracts for seeds and hespori for bottomless compost bucket
-	Turn in 200 fruit and then do a birdhouse run until 46 hunter, can continue post 46 but unlocking hunter's guild is a minimum
-	Minigame teleport back to Tithe after birdhouse run
-	25x4 method is better and doesnt require any sweaty diagonal running or seed dibber animation skipping (see the tile markers listed below) 
-		[{"regionId":7222,"regionX":30,"regionY":28,"z":0,"color":"#FFFFFF00"},{"regionId":7222,"regionX":27,"regionY":32,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":25,"regionY":32,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":36,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":42,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":48,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":52,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":40,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":34,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":54,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":58,"z":0,"color":"#FFA05808"}]
-	^^ Just doubleclick the line and import ^^
-
-	After getting 65 farming 
-		Go to fossil island and mine 250 - 500 volcanic ash for ultracompost
-		Purchase 150 - 300 pineapples from charter ships
-		Begin doing farming contracts and using the big compost bin in the farming guild (30 pineapples/50 ash per fillup)
-
 	[INV] Light source, food
 	Complete Death to the Dorgeshuun
 		Do not thieve for HAM robes until AFTER starting the quest (chance for robes being pickpocketed significantly higher) 
@@ -138,16 +124,39 @@ When not questing, start working towards the following skills:
 
 2. Building foundations for Grand Master Quests 
 
+	//Move Twilights' Promise to later on, don't need the QP if doing varrock diary
 	[INV] Air staff + death runes, rune sword, food
 	Complete Twilights' Promise (magic autocasting is bugged so if using magic for fight you must autocast)
-	
+
+	Creature of Fenkenstrain
+	Garden of Tranquility (5k farming)
+	A Soul's Bane
+	Enlightened Journey (3k farming 2k crafting)
+	Varrock Medium Diary
 	[INV] 5 gp, chisel, bread, tinderbox, candle, logs, oak logs, willow logs, maple logs, pickaxe, soft clay, coal, chaos/fire/earth runes, air staff, waterskin
 	Complete Enakhra's Lament
 		Dueling ring to Al Kharid and ferry to tempeross then go through the shantay gate and run north to quest start
-		
-	Complete Death on the Isle
-	Motherload mine and or sandstone quarry until 68 mining
+
+	[INV] 10 watering cans, seed dibber, spade, birdhouse run supplies 
+		Go to the Tithe Farm and start leveling farming, goal is 65 (use garden pie to boost tier 2 seeds at level 51, boost when grabbing seeds and planting - watering and harvesting doesnt need boost) Should take 10.5 pies to get the 200 fruit for lvl 54
+		Can be done whenever but the sooner the better so we can begin farming contracts for seeds and hespori for bottomless compost bucket
+		Turn in 200 fruit and then do a birdhouse run until 46 hunter, can continue post 46 but unlocking hunter's guild is a minimum
+		Minigame teleport back to Tithe after birdhouse run
+		25x4 method is better and doesnt require any sweaty diagonal running or seed dibber animation skipping (see the tile markers listed below) 
+			[{"regionId":7222,"regionX":30,"regionY":28,"z":0,"color":"#FFFFFF00"},{"regionId":7222,"regionX":27,"regionY":32,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":25,"regionY":32,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":36,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":42,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":48,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":52,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":40,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":34,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":54,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":58,"z":0,"color":"#FFA05808"}]
+		^^ Just doubleclick the line and import ^^
+	
+	After getting 65 farming 
+		Go to fossil island and mine 250 - 500 volcanic ash for ultracompost
+		Purchase 150 - 300 pineapples from charter ships
+		Begin doing farming contracts and using the big compost bin in the farming guild (30 pineapples/50 ash per fillup)
+	Cook giant seaweed on fire in Rogues Den (calculate how many molten glass you need for 62 crafting)
+	[INV] Waterskins, rune pickaxe, varrock platebody 2, noted empty buckets and coins (quantity of buckets and coins depends on how many soda ash you got in the previous step 1:1 bucket to ash, 50:1 coins to buckets)
+	Camulet teleport to desert and mine sandstone until required amount for 62 crafting (optional to stay until 68 mining for DS2, 72 mining for Making Friends with My Arm - will need sand for future crafting anyways)
 	Blow glass/lantern lens until 62 crafting
+
+	
+	
 	Get to 55 smithing by making steel bars at BF or swords at GF then BF 900 mithril bars and do 14 steel / 14 mithril at GF
 	Barrage temple spiders until 75 magic (grubby keys for ranging potions will be very helpful at DS2)
 	Mahogany homes novice contracts (oak planks) until 50 construction
@@ -162,8 +171,7 @@ When not questing, start working towards the following skills:
 
 
 
-Complete The Ribbiting Tale of a Lily Pad Labour Dispute
-	Complete Ethically Acquired Antiquities
+
 
 
 
