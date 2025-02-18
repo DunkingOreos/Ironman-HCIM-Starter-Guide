@@ -1020,6 +1020,10 @@ XP lamps from quests should go into Herblore while Diary and Fossil Island Lamps
 
 
 *** The next section is a current work in progress and just my thoughts thrown down, I plan to continue development of this section as I work towards doing it in game myself *** 
+*** Once the written version is finalized I will go back through and implement it into the other guide so it flows logically and efficently ***
+*** Completion of this section ends with DS2 and Perilous Moons - The account will then be ready to explore PvM content where most people will be comfortable ***
+*** There WILL be a section on how to get to SoTE but it will NOT be a rush guide like B0aty is making currently ***
+
 
 When not questing, start working towards the following skills:
 	Get 70 in Attack/Strength/Defence/Ranged and 75 in Magic 
@@ -1032,56 +1036,342 @@ When not questing, start working towards the following skills:
 		Will be around 200 Adept Mahogany Homes Contracts
 	Get 62 Crafting - seaweed and lantern lens
 	Get 60 Thieving - pickpocket Wealthy Citizens in Varlamore
-	Get 68 Mining 	- Motherload Mine
 	Get 70 Mining 	- sandstone
-	Get 70 Agility 	- Seer's Rooftop
-	Get 70 Smithing - Giant's Foundry or Blast Furnace depending on money situation
+	Get 70 Smithing	- giants foundry 14 mith claws 7 steel battleaxe or warhammer
+	Get 70 Agility 	- Seer's Rooftop OR Colossal Wyrm Course
 	Get 70 Hunter 	- birdhouse runs and either hunter rumours or salamanders
 	Get 70 Famring 	- keeping up with farming contracts, seaweed, and do Tithe Farm
 		Spending Tithe reward points on grape seeds and Bologa's blessing will be beneficial for later herblore
 	Get 70 Herblore farm as much as possible
 		Quests further down will provide 194,5000 herblore xp (Will still need over 500k before lvl 70)
-			Save guams/marrentills if doing dream vial method discussed at the top of this section
+			Harralander, Irit, and Cadantine seeds will be your friend
+			Mastering mixology from 60-70
+
+
+1. Starting herblore, hunter, hourlies, dailies, weeklies 
+
+	This section will require a good amount of gold, the total is still being calculated as of 20 January 2025, but highly recommed to get 900k or more through any money making method you choose
 	
-
-
-Unlocking Prifddinas:
-
-	Complete Regicide (25+ coal, bow/arrows, 2 ropes, spade, limestone (not brick) or pickaxe, tbox, 4 balls of wool, p&m, gloves, pot, axe)
-		Create extra barrel of Naphtha for MEP1
-	Complete Roving Elves (Glarial's pebble, key, spade, rope, lots of food)
-		Bow is good for completing the diary step
-		Shield is good for fight caves and general tanking
-		Start MEP1 with Eluned immediately afterwards to unlock Lletya
-	Complete Mourning's End Part I (bear fur, 2 silk, red/yellow/green/blue dyes, bucket of water, feather, rotten apple, premade t'd crunch, magic logs, leather, ogre bellows, barrel of naphtha)
-	Complete Mourning's End Part II (mourner gear, chisel, rope, catalytic talisman or item list)
-		HIGHLY RECOMMEND getting Catalytic Talisman from GoTR (it will act as a death talisman)
-
-	Complete Song of the Elves
+	Go to farming shop (Sarah in Falador)
+	Purchase extra farming tools and store with leprechaun
+	Purchase 3 buckets of compost
 	
+	[INV] barley seeds
+	Tele to champions guild and run to hops patch
+	Plant barley and pay the gardener with 3 compost to protect the patch
 
-Unlocking Wrath runes: 
+	Begin doing birdhouse runs
+		5 regular houses for lvl 14 (unlocks oak)
+		12 oak houses for lvl 24 (unlocks willow)
+		24 willow houses for lvl 34 (unlocks teak)
+		51 teak houses for lvl 44 (unlocks maple)
+		16 maple houses for lvl 46 (unlocks hunters guild)
+			Keep doing birdhouse runs with whatever your best log is as we'll need the birds nests later on
+			Can be lazy with this if you choose to grind Giant Mole for nests instead
+	
+	[INV] antipoison, ardy cape + dramen staff, food
+	Complete Garden of Death 
+	[INV] gp, runes for telegrab, logs, tinderbox, coal, iron bar, 3 sapphires, redberry pie
+	Complete Giant Dwarf 
+		When completing tasks for the company just go to blast furnace and purchase the ores
+		You can see what task they give you then click to talk again if you want to skip the task they give you
+	
+	At this time barley should be grown, go pick it and then tele to a range (lumbridge) and cook 2 barley malt.
+	[INV] gp, 2 barley malt, 2 buckets of water, seed dibber, rake, pot to fill ale yeast with
+	Complete Forgettable Tale of a Drunken Dwarf  
+		You can buy a kebab, 2 beer, and beer glass during the quest
+		You will be given 1 random item to retrieve
 
+	[INV] Light source, food
+	Complete Death to the Dorgeshuun
+		Do not thieve for HAM robes until AFTER starting the quest (chance for robes being pickpocketed significantly higher) 
+		Bring rune sword for final fight
+	[INV] swamp tar, 600 gp, sapphire
+	Travel to Dorgesh-Kaan and purchase a bullseye lantern (unf) from miltog
+		Use the swamp tar on the lamp still to make lamp oil and use the lantern on the still to fill the lantern
+		Usa a sapphire on the lantern to turn it into a sapphire lantern, then use a tinderbox on it to light it
+	[INV] sapphire lantern, chisel, tinderbox, pickaxe, rope
 	Complete Tears of Guthix
-	Complete One Small Favor
-		XP rewards into Herblore
-	Complete Eadgars Ruse
-	Complete My Arm's Big Adventure
+		Begin doing TOG every week, most likely will go into slayer until you surpass runecrafting, most people will elect to keep it going into RC anyways 
+
+	Calculate what you need to get 30 herblore, this inital push to 30 is the hardest as we will quest and lamp to get a bulk of the XP afterwards
+		If you dont have herb seeds go pickpocket master farmers 
+	[INV] 4 steel bars, bronze bar, iron bar, chisel, 2 guam leaves, marrentill, harralander, bowl of hot water, empty cup, hammer, pot, ectophial, ardy cape + dramen staff, 
+	      teleport runes to Falador, Ardougne, and Camelot, your best 5 herb seeds that you cane make potions with 
+	Complete One Small Favor 
+		Plant herb patch in Falador after talking to Brian in Port Sarim
+		Plant herb patch in Catherby after talking to Arheim 
+		Plant herb patch in Ardougne after talking to Wizard Cromperty then ectophial and plant Morytania herb patch then fairy ring to AJP and plant Varlamore herb patch
+		After you get the lamps, work on getting level 30 herblore and then use both lamps on herblore
 	
-	Complete Legends Quest
-		XP rewards into Herblore
+	[INV] Climbing boots, vodka, pineapple chunks, 2 logs, 10 grain, 5 raw chicken, tinderbox, pestle and motar, ranarr potion (unf), teleport runes to Falador/Ardougne and games necklace	
+	Complete Eadgars Ruse
+		Grab 2 additional goutweed during the quest for Dream Mentor and DS2
+
+	[INV] Antipoison (bring a couple), machete, spade, combat gear, ardy cape + dramen staff, food
+	Fairy ring CKR and run to Tai Bwo Wanni Village
+	Talk to Murcaily and ask what there is to do around here, go through all of the options
+	Start hacking light jungle until your Tai Bwo Favour is 100%
+		100% satisfies a diary requirement
+		60% is needed for making friends with my arm
+		Along the way keep the following: 6 snake hides (to make snakeskin boots for range bonus), spider carcus (for diary step), goutuber (diary step)
+		If broodoo victims spawn I just hop worlds to not have to deal with them
+
+	[INV] Climbing boots, rake, seed dibber, spade, 3 ugthanki dung, bucket, 8 supercompost, 3 teleports to trollheim, games necklace, air staff + death runes, food 
+	Complete My Arm's Big Adventure
+
+	[INV] Pickaxe, hammer, bucket, sapphire lantern, 2 essence, axe, tinderbox, small fishing net, bread dough, rope, 150 coins, logs, bones, teleports to Falador, Lumbridge, Varrock
+	Complete Falador, Lumbridge, and Varrock Easy Diaries, using all lamps on Herblore. At this point you should be level 45.
+	
+	Get 52 mining by either motherload mine, stars, or iron rocks
+	Get 50 crafting by making and blowing molten glass
+	Get 50 smithing by either giants foundry or buying coal and making steel bars/cannonballs. Recommend to get double ammo mould from GF though.
+	Complete Legends Quest:
+		To quickly get back to the Kharazi jungle after teleporting away, use fairy ring CKR and run south
+		You only need to bring 1 lockpick but pay attention to the chat box, if you fail the pick just move away without clicking to continue in order to reset
+		If you need to tele out after entering the room where you use an unpowered orb and charge spell you WILL need to bring another unpowered orb and charge spell to re-enter
+		If you need to tele out after drinking the bravery potion and using a rope to go down you DO NOT need to bring another bravery potion or rope, just click to search the winch and a rope will appear
+
+	Trip 1: [INV] radimus notes, axe, machete, lockpick, pickaxe, 3-5 papyrus (RND dependent), 1-3 charcoal (RNG dependent), soul rune, mind rune, earth rune, 2 law runes, opal, jade, red topaz, sapphire, emerald, ruby, diamond, ardy cape (equipped) + dramen staff
+			After you get the book of binding tele out and make the golden bowl then drop the sketch
+	Trip 2: [INV] radimus notes, rune axe, machete, bull roarer, bowl, book of binding, darklight, a way to restore your prayer, ardy cape (equipped) + dramen staff, food
+			After killing Nezikchened tele out, you may drop the book of binding now
+	Trip 3: [INV] radimus notes, rune axe, machete, bull roarer, bowl, yommi tree seeds, lockpick, pickaxe, runes for charge orb spell, unpowered orb, rope, bravery potion (ardrigal + vial of water + snake weed), air staff + death runes, ardy cape (equipped) + dramen staff, food 
+			You can safespot the 3 skeletons with air blast (Irvig, San, and Ranalph)
+			After you push the boulder and talk to Echned Zekin you will get the dark dagger, teleport out
+	Trip 4: [INV] radimus notes, rune axe, machete, bull roarer, bowl, yommi tree seeds, lockpick, pickaxe, runes for charge orb spell, unpowered orb, darklight, dark dagger, way to restore prayer, ardy cape (equipped) + dramen staff, food		
+			Make sure you fill up the bowl after killing Nezikchened then tele out, the water in the jungle will now be back so we can refill there
+	Trip 5: Only refil prayer restore method and food if needed, otherwise return to the jungle to finish the last part
+		PRAY MELEE BEFORE USING THE YOMMI TOTEM ON THE CORRUPTED TOTEM AS YOU WILL TAKE 4 HITS FROM Nezikchened WITHOUT BEING ABLE TO MOVE/EAT/TELEPORT
+		Once youve killed Nezikchened for the final time talk to goju and teleport back to legends' guild to finish the quest
+		XP rewards into Herblore and you should now be at level 55. From here on out, train herblore organically by keeping up with herb runs. We will eventually need to get lvl 70 for SOTE
+
+	Start actively completing farming contracts and seaweed runs, while we wont have superglass make for a little bit still having the banked seaweed for the future will be beneficial
+		** Get seaweed spores from killing ammonite crabs or by sitting underwater, get at least 20 spores to start **
+
+	[INV] 10 watering cans, seed dibber, spade, birdhouse run supplies 
+		Go to the Tithe Farm and start leveling farming, goal is 65 
+			Credit to Vendesum on YouTube: Use garden pie to boost tier 2 seeds at level 51, boost when grabbing seeds and planting - watering and harvesting doesnt need boost
+				Should take 10.5 pies to get the 200 fruit for lvl 54
+		Can be done whenever but the sooner the better so we can begin farming contracts for seeds and hespori for bottomless compost bucket
+		Turn in 200 fruit and then do a birdhouse run until 46 hunter, can continue post 46 but unlocking hunter's guild is a minimum
+		Minigame teleport back to Tithe after birdhouse run
+		25x4 method is better and doesnt require any sweaty diagonal running or seed dibber animation skipping (see the tile markers listed below) 
+			[{"regionId":7222,"regionX":30,"regionY":28,"z":0,"color":"#FFFFFF00"},{"regionId":7222,"regionX":27,"regionY":32,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":26,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":27,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":54,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":48,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":42,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":32,"regionY":36,"z":0,"color":"#FF25D217"},{"regionId":7222,"regionX":25,"regionY":32,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":36,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":38,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":42,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":48,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":50,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":52,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":40,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":34,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":54,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":25,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":28,"regionY":56,"z":0,"color":"#FFA05808"},{"regionId":7222,"regionX":33,"regionY":58,"z":0,"color":"#FFA05808"}]
+		^^ Just doubleclick the line and import ^^
+		
+	After getting 65 farming 
+		Go to fossil island and mine 250 - 500 volcanic ash for ultracompost
+		Purchase 150 - 300 pineapples from charter ships
+		Begin doing farming contracts and using the big compost bin in the farming guild (30 pineapples/50 ash per fillup)
+		Start planting herb seeds in the patches you have available 
+			Prioritize harralander/irit/cadantines so we can use them during mastering mixology
+		
+
+	Cook giant seaweed on fire in Rogues Den (calculate how many molten glass you need for 62 crafting)
+
+
+
+
+********** This section is a work in progress as I run through everything and reorganize it for efficiency ***********
+2. Building foundations for Grand Master Quests 
+
+	[INV] iron bar, logs, gold ring, willow shortbow (was purchased in early game guide section 2C.), rune axe, rake, 15 gp to buy flowers, ardy cape and dramen staff
+ 	Complete Throne of Miscellania 
+		Rake the weeds in the flax and herb patches when its available in between cutting maple logs (gives 1% per weed which is the fastest)
+		Put workers on maple trees (figure out how many maple bow long you need to fletch for 63 fletching)
+	
+	[INV] Air staff + death runes, rune sword, food
+	Complete Twilights' Promise (magic autocasting is bugged so if using magic for fight you must autocast)
+
+	[INV] Silver bar, 3 bronze wire, amulet of ghostspeak hammer, needle, 5 thread, spade, coins, ardy cape + dramen staff, ectophial, air staff + mind runes, food
+	Creature of Fenkenstrain 
+	
+	[INV] 3-6 cabbage/onion seeds, 1 marigold seed, ring of charos, rake, seed dibber, spade, secatures, 2 plant cure, trowel, filled pot plant, watering can, hammer, essence, pestle and motar, 2 buckets of any type of compost, fishing rod, 
+	Complete Garden of Tranquility
+
+	[INV] Rope, rune platebody/legs, rune sword, food
+	Complete A Soul's Bane
+	
+	Complete Enlightened Journey 
+	Trip 1: 3 papyrus, 1 ball of wool, 1 unlit candle, 8 empty sacks, 1 sack with 10 potatoes, red and yellow dye, 10 silk, bowl
+	Trip 2: 12 willow branches, 10 logs
+	
+	Complete Varrock Medium Diary
+	Move house to Relleka 
+	
+	[INV] 6 mithril ore, 8 ropes, raw tuna (can be purchased during quest so if you dont have bring 44 gp), knife, axe 
+	Complete The Fremennik Isles
+		Bank on Neizetnot for sword to kill yaks (get 3 hide) and chop 2 additional artic pine logs
+	
+	[INV] 5 gp, chisel, bread, tinderbox, candle, logs, oak logs, willow logs, maple logs, pickaxe, soft clay, coal, chaos/fire/earth runes, air staff, waterskin
+	Complete Enakhra's Lament
+		Dueling ring to Al Kharid and ferry to tempeross then go through the shantay gate and run north to quest start
+
+	[INV] Waterskins, rune pickaxe, varrock platebody 2, noted empty buckets and coins (quantity of buckets and coins depends on how many soda ash you got in the previous step 1:1 bucket to ash, 50:1 coins to buckets)
+	Camulet teleport to desert and mine sandstone until required amount for 62 crafting (optional to stay until 68 mining for DS2, 72 mining for Making Friends with My Arm - will need sand for future crafting anyways)
+	Blow glass/lantern lens until 62 crafting
+
+	Complete Kourend Easy Diary (halves the drop rate of the xerics talisman which will be our method of teleporting to Kourend farm patch and mahogany homes)
+	Kill lizardmen across bridge South West of Shayzien (South West of Mountain Guide) until xerics talisman
+		If you get them, keep 9 xerican fabric to make robes  
+
+	[INV] Bullseye lantern (extinguish the sapphire lantern we used in Tears of Guthix and replace the sapphire with a regular lens), tinderbox, 1 guam, 1 marrentil, pestle and mortar,
+	      Combat equipment to kill multiple Suqahs, dramen staff, dueling ring, pickaxe, thread, needle, 400 coins, spade, hammer, food 
 	Complete Lunar Diplomacy
-		(Optional) Before finishing the quest, drop manipulate dream vials. 1k vials = 168k herb xp when using guams/marrentills 
+		You can bank on Lunar Isle when you need to make the armor JUST MAKE SURE TO NOT BANK THE SEAL OF PASSAGE 
+		When mining the lunar ore, teleport back to house and use the furnace and avil in relekka
+		Mastering Mixology should key word should be better than doing dream vial method - this will be tested in the upcoming weeks
+
+	The next bits will entail getting skills leveled up to meet the requirements for Dream Mentor and Dragon Slayer 2:
+
+	Mahogany homes novice contracts (oak planks) until 50 construction
+		If you run out of planks:
+			Complete the ballon transport system to Castle Wars (10 yew logs)
+			Cut oak trees at Varrock Sawmill, make into planks, dueling ring to Castle Wars, 1 willow log to travel back to sawmill
+
+	Once you have 65 attack and strength go to the Warriors Guild in Burthrope to get your dragon defender
+		Reanimate black armor for your tokens
+	
+	Go to Jatizso and buy ~840 mithril claws (~460k)
+	Go to Mount Karluum and buy 210 steel battleaxes AND 210 steel warhammers (~270k)
+	14 claws / 7 battleaxes OR warhammers at Giants Foundry until lvl 70
+		Purchase Claymore Blade Mould at lvl 59
+		Purchase Serrated Tip Mould at lvl 60
+		Purchase Juggernaut Forte Mould at lvl 61
+	Purchase Colossal Sword at lvl 70 (this will be used at perilous moons)
+	Optionally purchase double ammo mould for cannonball making (will probably need to make 1-2 more swords)
+
+	[INV] enchanted gem, molten glass, air staff, water/fire/earth law runes, ardy capp + dramen staff, 20 rune essence equip combat gear
+	Complete Wanted!
+		When in Canifis grab lantern out from bank
+	
+	Complete slayer tasks until lvl 40
+		Recommend "Tureal Skipping" getting 9 tasks from Tureal and completing the 10th task at Konar to get the 10 task bonus
+		When combat level permits get task from masters to complete diary requirements:
+			Mazchna - lvl 20 - Mory Easy
+			Vannaka - lvl 40 - Varrock Medium
+			Chaeldar - lvl 70 - Lumby Medium
+
+	[INV] ardy cape + lunar staff, 5 coal, food, antipoison, combat gear 		
+	Complete Royal Trouble
+
+	[INV] ardy cape + lunar staff, 4 dose or more of prayer potion, food
+	Complete Lair of Tarn Razorlor
+		Kill Terror Dog while here for Mory Medium Diary
+		Grab the Diary from the table to enchant the salve amulet
+
+	VERY IMPORTANT
+	When starting the next portion we're going to be doing slayer, meleeing sulphur naguas, and bursting temple spiders all of which will give hard clues.
+		Complete as many hard clues as possible, even if it requires a couple of quests because we are aiming for black d hide body/chaps and magic short bow
+	Aside from clues, it is important to start or continue doing your farm runs, plan is to do 60-70 herblore via mastering mixology
+		Harralander, irit, cadantines are probably the easiest to use so go for those
+
+	Complete slayer tasks until lvl 48
+		When level 40 range you can enter ranging guild for the fletching method
+		Buy all of the arrow shafts and 200 steel arrow tips on each world until you have enough for 50 fletching
+
+	[INV] knife, big fishing net, rope, pestle and motar, antipoison, collosal blade, dragon dagger, food
+	Complete Perilous Moons
+	Train melee stats to base lvl 70 on sulphur naguas 
+		Moonlight potions restore prayer and boost att/str/def
+		sulphur blades will dramatically increase xp/hr by about 20,000
+		keep sulphur essence as it's a 0 time rc training method JUST MAKE SURE TO TURN IN BEFORE LEAVING OTHERWISE YOU LOSE THEM
+
+
+	Barrage temple spiders until 75 magic (grubby keys for ranging potions/sara brews/restores will be very helpful at DS2)
+		1000 casts of ice burst should get about 150k xp plan accordingly
+		Will need to get 57 thieving to actually use the keys so just hold them until we get 60 theiving
+	Bone cross bow crabs until 70 ranged
+	
+
+	If you didnt get 68 mining earlier, go back to the sand quarry and mine sandstone with the same inventory setup as before
+	Get 60 thieving by any method you choose, I prefer varlamore
+	Go loot grubby keys
+	Collect kindgom resources and fletch maple logs until 63 fletching
+	Soul Wars for adamant bolts
+		Can duo boost this if you have a friend or alt with membership
+			3 zone captures, 24 sacrifices, 160+ damage to avatar will get about 20 points per 5 minutes
+	PVP arena for scroll of imbuing
+		Could go for 2 but 1 is good for now
+		Join official 1v1 tournament (need at least 4 players to start)
+			Can use alts to boost or find friends to do it, as losing in first round still grants points (need 200 for scroll)
+
+3. Tackling Grand Master Quests
+	
+	[INV] Seal of passage, goutweed, astral rune, hammer, pestle and mortar, tinderbox, 7x food 1, 7x food 2, 6x food 3
 	Complete Dream Mentor
-	Complete Dragon Slayer 2
+		1st boss: Use rune armor, wind blast, combo foods (its okay to use all your food here)
+		2nd and 3rd bosses can be safespotted by the lectern exit
+		4th boss is just a waiting game as it doesnt attack you and just digs after you hit it
 
+	If you dont already have one, purchase a dragon mace from the Hero's Guild
+	If you arent already, get 65 herblore and boost with a botanical pie to make antifire potions
 
-Unlocking Meiyerditch Bloodvelds: 
+	[INV] Pickaxe, ardy cape + lunar staff, air staff + death runes, digsite pendant (make sure to leave 24 inventory spaces open)
+	Take Spirit Tree to Feldip Hills and talk to Alec to start DS2
+	Ardy cape to fairy ring BLP and run to Musa Point
+	Digsite tele to fossil island and find the map pieces then talk to Jardric at the camp
+	[INV] hammer, saw, 8 oak planks, 10 swamp paste, at least 12 nails (bring more in case you bend them), varrock teleport runes, catspeak amulet
+	Build the boat West of Fossil Island and complete the Lithriken steps then teleport to Varrock and find Bob
+	[INV] teleport to house runes, ring of dueling, coins, seal of passage, goutweed, astral rune, hammer, pestle and mortar
+	Do Sophanem steps then teleport to house and travel to Lunar Isle and talk to the Oneiromancer
+	[INV] Melee combat gear with dragon mace, super set potions, tinderbox and dream vial, recoil, food
+	Robert the Strong Max hit 34 with ranged, 50 with special
+		Dump dmace specs and pray range. Run behind pillar when he says "See if you can hide from this!"
+		combo eat when close to 34 hp
+	
+	Kourend Key Piece:
+		[INV] light source, xerics talisman, varrock teleport runes, food *wear rune armor*
+		Xerics talisman to lookout and talk to Amelia, then head to the crypt - pray magic and run fast
+		Teleport to Varrock after getting key piece
+	Morytania Key Piece:
+		[INV] ghostspeak amulet, dragonstone, 2 molten glass, glassblowing pipe, spade, ectophial, lumbridge teleport runes, ardy cape + lunar staff, food
+		Talk to Reldo then ectophial to Port Phasmatys
+		Talk to Sara then teleport to Lumbridge and go to Ava in Draynor Manor
+		Ardy cape to fairy ring BKR and use locator orb to find the dig spot
+	Karamja Key Piece:
+		[INV] machete, axe, prayer potion, food
+		Go to the Kharzi Jungle and head down into the crypt. TURN OFF AUTO RETALIATE
+		Run the maze making sure to combo eat when you get hit by traps, you can take ALOT of damage very quickly
+	Fremennik Key Piece:
+		[INV] crumble undead runes, prayer potion, ruby/diamond bolts, antipoison *wear salve amulet (ei)*
+		Defeat Vorkath
+	Assembling the Key:
+		[INV] all 4 key pieces, hammer, ancient key, runes to cast 3 fire waves, digsite pendant, food
+		Teleport to Barbarian Outpost and enter the ancient cavern to forge the dragon key
+		Teleport to fossil island and return to Lithkren to open the door
 
-	Complete In Aid of the Myreque
-	Complete Darkness of Hallowvale
-		XP rewards into Herblore
-	Complete A Taste of Hope
-		XP rewards into Herblore
-	Complete Sins of the Father
-		XP rewards into Herblore
+	Shipwreck Maze/Fights:
+		Bring bolts for all of the dragons until getting to the main ship, once you get there it is a checkpoint so you can tele out
+		When fighting on the main ship bring earth wave for the steel dragon and use bolts on the black and red dragons
+			Once the red dragon is killed you earned another checkpoint and can tele out
+		Bring earth wave again for the mithril dragon
+		Adamant and Rune dragons and be *safespotted* 
+			Walk under them and get them trapped on the other NPCs then just dodge Galveks bombs
+		
+	GALVEK:
+		Overall fight will be RNG dependant with base 70 range but is achieveable (I have personally done it 2x)
+		pre pot sara brew > restore > ranging pot > antifire
+			I like to tele house and drop 3 food then bank and when I tele back I can pick up the food
+		[INV] diamond bolts e, 2 restores, 1 antifire, ectophial, rest of inv combo food (cheese potatoe and karambwan)
+		Phase 1: Run North and South to avoid bombs and pray mage.
+		Phase 2: Pray range and Hope your ruby bolt specs proc to end phase as fast as possible, drink restore when needed
+		Phase 3: Pray range and dodge the waves
+		Phase 4: Pray range and dodge the rock ball
+
+	
+	
+	Slug Menace
+	base 75 melees? 
+	70 prayer (look into bone shard method)
+	Kings ransom
+	temple spiders for 80 magic
+	barrows until tank armor and karils
+	55 slayer and slay helm
+	rex until beserker ring
+	sotf questline (tomes into herb)
+	perilous moons until green log
+	royal titans until prayers and staff
+	sote quest line
+	END OF GUIDE
